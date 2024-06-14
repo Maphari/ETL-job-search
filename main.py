@@ -1,8 +1,9 @@
 from etl.etl_process import extract_process, transform_process, load_process
-from data.data import make_jobs_request, target_file_path_json
-from globals.globals import log_process
+from data.data import make_jobs_request
+from globals.globals import log_process, target_file_path_json
+import schedule
+import time
 
-# make_jobs_request()
 
 
 def main():
@@ -22,5 +23,13 @@ def main():
     log_process("loading data finished")
 
 
-if __name__ == '__main__':
+def do_job():
+    make_jobs_request()
     main()
+
+schedule.every().sunday.at('00:00').do(do_job)
+
+if __name__ == '__main__':
+    while True:
+        schedule.run_pending()
+        time.sleep(1)
