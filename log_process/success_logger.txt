@@ -1,0 +1,26 @@
+Success message on file: globals.py Data frame created successfully at: 2024-06-14 13:35:34.875639
+Success message on file: globals.py Process finished at 2024-06-14 13:35:34.884941 at: 2024-06-14 13:35:34.875639
+Success message on file: globals.py Data frame created successfully at: 2024-06-14 13:36:18.490865
+Success message on file: globals.py Process finished at 2024-06-14 13:36:18.501954 at: 2024-06-14 13:36:18.490865
+Success message on file: globals.py Data frame created successfully at: 2024-06-14 13:36:57.025550
+Success message on file: globals.py Process finished at 2024-06-14 13:36:57.035728 at: 2024-06-14 13:36:57.025550
+Success message on file: globals.py Data frame created successfully at: 2024-06-14 13:38:49.865104
+Success message on file: globals.py Process finished at 2024-06-14 13:38:49.878652 at: 2024-06-14 13:38:49.865104
+Success message on file: globals.py Data frame created successfully at: 2024-06-14 13:39:36.948077
+Success message on file: globals.py Process finished at 2024-06-14 13:39:36.959653 at: 2024-06-14 13:39:36.948077
+Success message on file: globals.py Data frame created successfully at: 2024-06-14 13:40:18.116745
+Success message on file: globals.py Process finished at 2024-06-14 13:40:18.126372 at: 2024-06-14 13:40:18.116745
+Success message on file: globals.py Data frame created successfully at: 2024-06-14 13:47:37.845602
+Success message on file: globals.py Process finished at 2024-06-14 13:47:37.856205 at: 2024-06-14 13:47:37.845602
+Success message on file: globals.py Data frame created successfully at: 2024-06-14 13:48:34.012111
+Success message on file: globals.py Process finished at 2024-06-14 13:48:34.022948 at: 2024-06-14 13:48:34.012111
+Success message on file: globals.py Data frame created successfully at: 2024-06-14 13:54:50.820952
+Success message on file: globals.py Process finished at 2024-06-14 13:54:50.831652 at: 2024-06-14 13:54:50.820952
+Success message on file: globals.py Data frame created successfully at: 2024-06-14 13:57:21.234103
+Success message on file: globals.py Process finished at 2024-06-14 13:57:21.244683 at: 2024-06-14 13:57:21.234103
+Success message on file: globals.py Data frame created successfully at: 2024-06-14 13:58:05.154185
+Success message on file: globals.py Process finished at 2024-06-14 13:58:05.165279 at: 2024-06-14 13:58:05.154185
+Success message on file: globals.py Data frame created successfully at: 2024-06-14 13:59:54.105214
+Success message on file: globals.py Process finished at 2024-06-14 13:59:54.115002 at: 2024-06-14 13:59:54.105214
+Success message on file: globals.py Data frame created successfully at: 2024-06-14 14:09:21.214981
+Success message on file: globals.py Process finished at 2024-06-14 14:09:21.224876 at: 2024-06-14 14:09:21.214981

@@ -1,0 +1,1147 @@
+[
+     {
+          "job_id": "1VEiauMWvNML5gYLAAAAAA==",
+          "employer_name": "Adobe",
+          "employer_logo": "http://wwwimages.adobe.com/content/dam/acom/en/badges-buttons/images/Adobe_standard_logo_RGB.png",
+          "employer_website": "http://www.adobe.com",
+          "employer_company_type": "Information",
+          "job_publisher": "The Muse",
+          "job_employment_type": "FULLTIME",
+          "job_title": "Finance Data Engineer",
+          "job_apply_link": "https://www.themuse.com/jobs/adobe/finance-data-engineer",
+          "job_apply_is_direct": true,
+          "job_apply_quality_score": 0.5591,
+          "apply_options": [
+               {
+                    "publisher": "The Muse",
+                    "apply_link": "https://www.themuse.com/jobs/adobe/finance-data-engineer",
+                    "is_direct": true
+               }
+          ],
+          "job_description": "Our Company\n\nChanging the world through digital experiences is what Adobe's all about. We give everyone-from emerging artists to global brands-everything they need to design and deliver exceptional digital experiences! We're passionate about empowering people to create beautiful and powerful images, videos, and apps, and transform how companies interact with customers across every screen.\n\nWe're on a mission to hire the very best and are committed to creating exceptional employee experiences where everyone is respected and has access to equal opportunity. We realize that new ideas can come from everywhere in the organization, and we know the next big idea could be yours!\n\nThe Opportunity\n\nThis is an exciting opportunity to join the Digital Media Finance team as we continue to propel the business through data-driven forecasts and provide influential insights. In this role, you will have the opportunity to help drive Adobe's pivotal initiatives by data engineering solutions that connect systems to visualization platforms for management reporting. The position will report to the Group Manager, Finance Automation to drive our systems and automation effort. This position will provide an outstanding opportunity to drive timely insights across Digital Media (DMe) Business at Adobe and help drive the Finance Transformational efforts undertaken by the Finance Automation team.\n\nThe ideal candidate for this role is a well-rounded top performer with exceptional data engineering, analysis, and visualization skills, capable of driving growth in a fast-paced environment. You should possess a continuous learning mentality to explore and implement innovations in the team's reporting and transformational projects. Strong cross-functional collaboration within Adobe is essential. You will be responsible for automating complex financial models, developing engaging and interactive dashboards, streamlining processes, and enhancing efficiencies in management reporting\n\nWhat you'll do:\n\u2022 Responsible for the strategy and execution of DMe lifecycle of financial and analytics dashboards and ensuring scalability of systems and processes.\n\u2022 Manage data transitions and platform migrations between SAP HANA/DataBricks, Tableau/PowerBI, and related ETL processes.\n\u2022 Develop data pipelines, connections, and infrastructure to better enable forecasting and data science modelling.\n\u2022 Correct data errors via systematic, logical fixes and provide updates within the data pipelines, connections and infrastructures that are built to support the teams.\n\u2022 Create documentation and support enablement for the teams who are interested and able to help themselves.\n\u2022 Accountable for ad-hoc support & participation in critical business analytics and key project support as directed by management.\n\u2022 Partner closely with IT, Finance Systems, Finance Transformation Office, and other Finance counterparts to continually improve, streamline & enhance planning and reporting processes.\n\nWhat you need to succeed:\n\u2022 BS/BA with preferred focuses in areas of Business, Finance, or Information Systems. Master's in Data Science a plus.\n\u2022 3+ years of demonstrated experience working with large and complex data structures and develop efficient queries to create calculated fields and data aggregates.\n\u2022 2+ years of proven experience designing and developing dashboards using PowerBI or Tableau.\n\u2022 3+ years of relevant experience in data science and analytics in creating/maintaining financial models for a subscription/SaaS business a plus.\n\u2022 Proficient in data platforms/systems (such as SQL, Databricks), ETL tools (such as Python, SnapLogic), process automation, and standardization.\n\u2022 Self-starter with high attention to details, excellent interpersonal skills, and ability to take charge, set objectives, and deliver results.\n\u2022 Strong project management skills with ability to juggle multiple priorities.\n\u2022 Strong team orientation and a learning mentality.\n\nOur compensation reflects the cost of labor across several U.S. geographic markets, and we pay differently based on those defined markets. The U.S. pay range for this position is $73,900 -- $170,300 annually. Pay within this range varies by work location and may also depend on job-related knowledge, skills, and experience. Your recruiter can share more about the specific salary range for the job location during the hiring process.\n\nAt Adobe, for sales roles starting salaries are expressed as total target compensation (TTC = base + commission), and short-term incentives are in the form of sales commission plans. Non-sales roles starting salaries are expressed as base salary and short-term incentives are in the form of the Annual Incentive Plan (AIP).\n\nIn addition, certain roles may be eligible for long-term incentives in the form of a new hire equity award.\n\nAdobe is proud to be an Equal Employment Opportunity and affirmative action employer. We do not discriminate based on gender, race or color, ethnicity or national origin, age, disability, religion, sexual orientation, gender identity or expression, veteran status, or any other applicable characteristics protected by law. Learn more.\n\nAdobe aims to make Adobe.com accessible to any and all users. If you have a disability or special need that requires accommodation to navigate our website or complete the application process, email accommodations@adobe.com or call (408) 536-3015.\n\nAdobe values a free and open marketplace for all employees and has policies in place to ensure that we do not enter into illegal agreements with other companies to not recruit or hire each other's employees.",
+          "job_is_remote": true,
+          "job_posted_at_timestamp": 1718193283,
+          "job_posted_at_datetime_utc": "2024-06-12T11:54:43.000Z",
+          "job_city": "Los Angeles",
+          "job_state": "CA",
+          "job_country": "US",
+          "job_latitude": 34.05491,
+          "job_longitude": -118.242645,
+          "job_benefits": null,
+          "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=data+engineering&start=0&ibp=htl;jobs&htidocid=1VEiauMWvNML5gYLAAAAAA%3D%3D#fpstate=tldetail&htivrt=jobs&htiq=data+engineering&htidocid=1VEiauMWvNML5gYLAAAAAA%3D%3D",
+          "job_offer_expiration_datetime_utc": null,
+          "job_offer_expiration_timestamp": null,
+          "job_required_experience": {
+               "no_experience_required": false,
+               "required_experience_in_months": 36,
+               "experience_mentioned": true,
+               "experience_preferred": true
+          },
+          "job_required_skills": null,
+          "job_required_education": {
+               "postgraduate_degree": false,
+               "professional_certification": false,
+               "high_school": false,
+               "associates_degree": false,
+               "bachelors_degree": false,
+               "degree_mentioned": true,
+               "degree_preferred": true,
+               "professional_certification_mentioned": false
+          },
+          "job_experience_in_place_of_education": false,
+          "job_min_salary": null,
+          "job_max_salary": null,
+          "job_salary_currency": null,
+          "job_salary_period": null,
+          "job_highlights": {
+               "Qualifications": [
+                    "You should possess a continuous learning mentality to explore and implement innovations in the team's reporting and transformational projects",
+                    "3+ years of demonstrated experience working with large and complex data structures and develop efficient queries to create calculated fields and data aggregates",
+                    "2+ years of proven experience designing and developing dashboards using PowerBI or Tableau",
+                    "Proficient in data platforms/systems (such as SQL, Databricks), ETL tools (such as Python, SnapLogic), process automation, and standardization",
+                    "Self-starter with high attention to details, excellent interpersonal skills, and ability to take charge, set objectives, and deliver results",
+                    "Strong project management skills with ability to juggle multiple priorities",
+                    "Strong team orientation and a learning mentality"
+               ],
+               "Responsibilities": [
+                    "In this role, you will have the opportunity to help drive Adobe's pivotal initiatives by data engineering solutions that connect systems to visualization platforms for management reporting",
+                    "The position will report to the Group Manager, Finance Automation to drive our systems and automation effort",
+                    "You will be responsible for automating complex financial models, developing engaging and interactive dashboards, streamlining processes, and enhancing efficiencies in management reporting",
+                    "Responsible for the strategy and execution of DMe lifecycle of financial and analytics dashboards and ensuring scalability of systems and processes",
+                    "Manage data transitions and platform migrations between SAP HANA/DataBricks, Tableau/PowerBI, and related ETL processes",
+                    "Develop data pipelines, connections, and infrastructure to better enable forecasting and data science modelling",
+                    "Correct data errors via systematic, logical fixes and provide updates within the data pipelines, connections and infrastructures that are built to support the teams",
+                    "Create documentation and support enablement for the teams who are interested and able to help themselves",
+                    "Accountable for ad-hoc support & participation in critical business analytics and key project support as directed by management",
+                    "Partner closely with IT, Finance Systems, Finance Transformation Office, and other Finance counterparts to continually improve, streamline & enhance planning and reporting processes"
+               ],
+               "Benefits": [
+                    "The U.S. pay range for this position is $73,900 -- $170,300 annually",
+                    "Pay within this range varies by work location and may also depend on job-related knowledge, skills, and experience",
+                    "At Adobe, for sales roles starting salaries are expressed as total target compensation (TTC = base + commission), and short-term incentives are in the form of sales commission plans",
+                    "Non-sales roles starting salaries are expressed as base salary and short-term incentives are in the form of the Annual Incentive Plan (AIP)",
+                    "In addition, certain roles may be eligible for long-term incentives in the form of a new hire equity award"
+               ]
+          },
+          "job_job_title": "Data engineer",
+          "job_posting_language": "en",
+          "job_onet_soc": "15113200",
+          "job_onet_job_zone": "4",
+          "job_occupational_categories": null,
+          "job_naics_code": "511210",
+          "job_naics_name": "Software Publishers"
+     },
+     {
+          "job_id": "yrdiMDr7a3RFdlE4AAAAAA==",
+          "employer_name": "Motion Recruitment",
+          "employer_logo": "https://media.licdn.com/dms/image/C4E0BAQGbIGAVD9Ugtg/company-logo_200_200/0/1630587145865/motion_recruitment_partners_llc_logo?e=2147483647&v=beta&t=1fovSVlLFAPpznCZcWgGQoShrP-j5ucndTQISrI5Pz0",
+          "employer_website": "http://www.motionrp.com",
+          "employer_company_type": "Staffing",
+          "job_publisher": "Motion Recruitment",
+          "job_employment_type": "CONTRACTOR",
+          "job_title": "Data Engineer",
+          "job_apply_link": "https://motionrecruitment.com/tech-jobs/charlotte/contract/data-engineer-/740182",
+          "job_apply_is_direct": true,
+          "job_apply_quality_score": 0.6968,
+          "apply_options": [
+               {
+                    "publisher": "Motion Recruitment",
+                    "apply_link": "https://motionrecruitment.com/tech-jobs/charlotte/contract/data-engineer-/740182",
+                    "is_direct": true
+               },
+               {
+                    "publisher": "LinkedIn",
+                    "apply_link": "https://www.linkedin.com/jobs/view/data-engineer-at-motion-recruitment-3947458450",
+                    "is_direct": false
+               }
+          ],
+          "job_description": "Outstanding long-term contract opportunity! A well-known Financial Services Company is looking for a Data Engineer in Charlotte, NC (Hybrid).\n\nWork with the brightest minds at one of the largest financial institutions in the world. This is long-term contract opportunity that includes a competitive benefit package! Our client has been around for over 150 years and is continuously innovating in today's digital age. If you want to work for a company that is not only a household name, but also truly cares about satisfying customers' financial needs and helping people succeed financially, apply today.\n\nContract Duration: 12 Months\n\nRequired Skills & Experience\n\u2022 7+ years of Data engineering experience\n\u2022 7+ years of MS SQL server experience\n\u2022 7+ years of Teradata experience\n\u2022 7+ years of SDLC (System Development Life Cycle) experience\n\u2022 5+ years of experience in Teradata database technology and products such as TASM, Unity, Data mover and Query Grid\n\u2022 5+ years of ETL (Extract, Transform, Load) development experience using Ab Initio\n\u2022 5+ years of Autosys experience\n\u2022 5+ years of scripting and automation experience\n\u2022 4+ years of experience with Enterprise Risk Data\n\nDesired Skills & Experience\n\u2022 3+ years of Ab Initio experience Enter Here\n\nWhat You Will Be Doing\n\u2022 Provide technology design, develop and support Risk and Regulatory platform capabilities, functions and processes.\n\u2022 Understand business requirements with respects to data and reporting needs.\n\u2022 Analyze source data and perform data gap analysis, source to target mappings, and data integration design.\n\u2022 Design and implement highly distributed, scalable processes - Data Enrichments using Ab Initio, SQL, Strong data enrichment & delivery techniques using various technology stack: Jenkins, Artifactory, Git, Autosys, DTS, NDM, and PCF.\n\u2022 Evaluate solutions, review system architecture, design and tools to achieve project objectives including usability, performance, reliability, and monitoring, control, and security requirements.\n\u2022 Assist all technology partners/developers to use the agreed technology/tools and interfaces to ensure smooth integration, security & reliability across DEV, SIT, UAT and Production.\n\u2022 Performance tuning and designing of high-performance applications involving huge data processing.",
+          "job_is_remote": false,
+          "job_posted_at_timestamp": 1718057006,
+          "job_posted_at_datetime_utc": "2024-06-10T22:03:26.000Z",
+          "job_city": "Charlotte",
+          "job_state": "NC",
+          "job_country": "US",
+          "job_latitude": 35.227085,
+          "job_longitude": -80.843124,
+          "job_benefits": null,
+          "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=data+engineering&start=0&ibp=htl;jobs&htidocid=yrdiMDr7a3RFdlE4AAAAAA%3D%3D#fpstate=tldetail&htivrt=jobs&htiq=data+engineering&htidocid=yrdiMDr7a3RFdlE4AAAAAA%3D%3D",
+          "job_offer_expiration_datetime_utc": "2024-08-16T16:54:18.000Z",
+          "job_offer_expiration_timestamp": 1723827258,
+          "job_required_experience": {
+               "no_experience_required": false,
+               "required_experience_in_months": 12,
+               "experience_mentioned": true,
+               "experience_preferred": false
+          },
+          "job_required_skills": null,
+          "job_required_education": {
+               "postgraduate_degree": false,
+               "professional_certification": false,
+               "high_school": false,
+               "associates_degree": false,
+               "bachelors_degree": false,
+               "degree_mentioned": false,
+               "degree_preferred": false,
+               "professional_certification_mentioned": false
+          },
+          "job_experience_in_place_of_education": false,
+          "job_min_salary": 53.56,
+          "job_max_salary": 60.35,
+          "job_salary_currency": "USD",
+          "job_salary_period": "HOUR",
+          "job_highlights": {
+               "Qualifications": [
+                    "7+ years of Data engineering experience",
+                    "7+ years of MS SQL server experience",
+                    "7+ years of Teradata experience",
+                    "7+ years of SDLC (System Development Life Cycle) experience",
+                    "5+ years of experience in Teradata database technology and products such as TASM, Unity, Data mover and Query Grid",
+                    "5+ years of ETL (Extract, Transform, Load) development experience using Ab Initio",
+                    "5+ years of Autosys experience",
+                    "5+ years of scripting and automation experience",
+                    "4+ years of experience with Enterprise Risk Data"
+               ],
+               "Responsibilities": [
+                    "Provide technology design, develop and support Risk and Regulatory platform capabilities, functions and processes",
+                    "Understand business requirements with respects to data and reporting needs",
+                    "Analyze source data and perform data gap analysis, source to target mappings, and data integration design",
+                    "Design and implement highly distributed, scalable processes - Data Enrichments using Ab Initio, SQL, Strong data enrichment & delivery techniques using various technology stack: Jenkins, Artifactory, Git, Autosys, DTS, NDM, and PCF",
+                    "Evaluate solutions, review system architecture, design and tools to achieve project objectives including usability, performance, reliability, and monitoring, control, and security requirements",
+                    "Assist all technology partners/developers to use the agreed technology/tools and interfaces to ensure smooth integration, security & reliability across DEV, SIT, UAT and Production",
+                    "Performance tuning and designing of high-performance applications involving huge data processing"
+               ],
+               "Benefits": [
+                    "This is long-term contract opportunity that includes a competitive benefit package!"
+               ]
+          },
+          "job_job_title": "Data engineer",
+          "job_posting_language": "en",
+          "job_onet_soc": "15113200",
+          "job_onet_job_zone": "4",
+          "job_occupational_categories": null,
+          "job_naics_code": "561311",
+          "job_naics_name": "Employment Placement Agencies"
+     },
+     {
+          "job_id": "8JQJViy8Up76r0u5AAAAAA==",
+          "employer_name": "Insight Global",
+          "employer_logo": "https://images.squarespace-cdn.com/content/5f7f984c3ca20d1d55b276f7/1619793549819-L54X3W9Z5RD277UPNH9S/IGLogoPublic.png?content-type=image%2Fpng",
+          "employer_website": "http://www.insightglobal.com",
+          "employer_company_type": "Staffing",
+          "job_publisher": "Insight Global",
+          "job_employment_type": "CONTRACTOR",
+          "job_title": "Insight Global",
+          "job_apply_link": "https://insightglobal.com/jobs/find_a_job/connecticut/east-hartford/remote-data-engineer/job-362049/",
+          "job_apply_is_direct": false,
+          "job_apply_quality_score": 0.8148,
+          "apply_options": [
+               {
+                    "publisher": "Insight Global",
+                    "apply_link": "https://insightglobal.com/jobs/find_a_job/connecticut/east-hartford/remote-data-engineer/job-362049/",
+                    "is_direct": false
+               },
+               {
+                    "publisher": "JoPilot",
+                    "apply_link": "https://jobs.jopilot.net/job/e1QFuo8BcRajQcTjPeXe0524",
+                    "is_direct": false
+               }
+          ],
+          "job_description": "Insight Global is seeking a Data Engineer to support a large aerospace client. In this role, you will join a digital technology team responsible for building and delivering data products to the military customer. Your day-to-day tasks will involve working with SAP data, including material management, configuration, contractors, and invoice forecasting. You'll be expected to create data pipelines from scratch using ETL tools like DB2 and Informatica. A background in database development and experience with SQL Server and Oracle databases are essential for success. The team utilizes programming languages such as Python and SQL to build data warehouses and data pipelines. The position is fully remote but operates on the East Coast time zone.\n\nWe are a company committed to creating diverse and inclusive environments where people can bring their full, authentic selves to work every day. We are an equal opportunity/affirmative action employer that believes everyone matters. Qualified candidates will receive consideration for employment regardless of their race, color, ethnicity, religion, sex (including pregnancy), sexual orientation, gender identity and expression, marital status, national origin, ancestry, genetic factors, age, disability, protected veteran status, military or uniformed service member status, or any other status or characteristic protected by applicable laws, regulations, and ordinances. If you need assistance and/or a reasonable accommodation due to a disability during the application or recruiting process, please send a request to HR@insightglobal.com.\n\nTo learn more about how we collect, keep, and process your private information, please review Insight Global's Workforce Privacy Policy: https://insightglobal.com/workforce-privacy-policy/ .",
+          "job_is_remote": false,
+          "job_posted_at_timestamp": 1717977600,
+          "job_posted_at_datetime_utc": "2024-06-10T00:00:00.000Z",
+          "job_city": "Hartford",
+          "job_state": "CT",
+          "job_country": "US",
+          "job_latitude": 41.76685,
+          "job_longitude": -72.676186,
+          "job_benefits": null,
+          "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=data+engineering&start=0&ibp=htl;jobs&htidocid=8JQJViy8Up76r0u5AAAAAA%3D%3D#fpstate=tldetail&htivrt=jobs&htiq=data+engineering&htidocid=8JQJViy8Up76r0u5AAAAAA%3D%3D",
+          "job_offer_expiration_datetime_utc": "2024-08-11T00:00:00.000Z",
+          "job_offer_expiration_timestamp": 1723334400,
+          "job_required_experience": {
+               "no_experience_required": false,
+               "required_experience_in_months": null,
+               "experience_mentioned": true,
+               "experience_preferred": true
+          },
+          "job_required_skills": [
+               "Plus: Experience with Azure Synapse is preferred. Background and experience in building data products in data mesh environments. Familiarity with working in a DevOps structure is a plus. Compensation: $65/hr to $73/hr Exact compensation may vary based on several factors",
+               "including skills",
+               "experience",
+               "and education. Benefit packages for this role will start on the 31st day of employment and include medical",
+               "dental",
+               "and vision insurance",
+               "as well as HSA",
+               "FSA",
+               "and DCFSA account options",
+               "and 401K retirement account access with employer matching. Employees in this role are also entitled to paid sick leave and/or other paid time off as provided by applicable law."
+          ],
+          "job_required_education": {
+               "postgraduate_degree": false,
+               "professional_certification": false,
+               "high_school": false,
+               "associates_degree": false,
+               "bachelors_degree": false,
+               "degree_mentioned": false,
+               "degree_preferred": false,
+               "professional_certification_mentioned": false
+          },
+          "job_experience_in_place_of_education": false,
+          "job_min_salary": null,
+          "job_max_salary": null,
+          "job_salary_currency": null,
+          "job_salary_period": null,
+          "job_highlights": {
+               "Qualifications": [
+                    "A background in database development and experience with SQL Server and Oracle databases are essential for success"
+               ],
+               "Responsibilities": [
+                    "In this role, you will join a digital technology team responsible for building and delivering data products to the military customer",
+                    "Your day-to-day tasks will involve working with SAP data, including material management, configuration, contractors, and invoice forecasting",
+                    "You'll be expected to create data pipelines from scratch using ETL tools like DB2 and Informatica"
+               ]
+          },
+          "job_job_title": null,
+          "job_posting_language": "en",
+          "job_onet_soc": "13107100",
+          "job_onet_job_zone": "4",
+          "job_occupational_categories": null,
+          "job_naics_code": "561311",
+          "job_naics_name": "Employment Placement Agencies"
+     },
+     {
+          "job_id": "DrblST1dtO4oyEYjAAAAAA==",
+          "employer_name": "Leidos",
+          "employer_logo": null,
+          "employer_website": null,
+          "employer_company_type": null,
+          "job_publisher": "Monster",
+          "job_employment_type": "FULLTIME",
+          "job_title": "Data Engineer",
+          "job_apply_link": "https://www.monster.com/job-openings/data-engineer-rockville-md--b473bba7-8983-4cfe-9f10-213e1b7b71a2",
+          "job_apply_is_direct": false,
+          "job_apply_quality_score": 0.5718,
+          "apply_options": [
+               {
+                    "publisher": "Monster",
+                    "apply_link": "https://www.monster.com/job-openings/data-engineer-rockville-md--b473bba7-8983-4cfe-9f10-213e1b7b71a2",
+                    "is_direct": false
+               },
+               {
+                    "publisher": "JobServe",
+                    "apply_link": "https://www.jobserve.com/gb/en/search-jobs-in-Rockville,-Maryland,-USA/DATA-ENGINEER-41D1B2773DA232BDFB/",
+                    "is_direct": false
+               },
+               {
+                    "publisher": "Jobs",
+                    "apply_link": "https://jobs.forces.net/jobs/data-engineer-rockville-maryland/1354917057-2/",
+                    "is_direct": false
+               },
+               {
+                    "publisher": "Ladders",
+                    "apply_link": "https://www.theladders.com/job-listing/data-integration-engineer-leidos-rockville-md-_v2_-7-3697658312.html",
+                    "is_direct": false
+               },
+               {
+                    "publisher": "BeBee",
+                    "apply_link": "https://us.bebee.com/job/6aeba808e23b148ed7e10a706ce39221",
+                    "is_direct": false
+               },
+               {
+                    "publisher": "Jobing.com",
+                    "apply_link": "https://jobing.com/job/data-engineer-gled-june-2024-rockville-maryland-us/ce4a444c07541ab8329d9a782c53aaea",
+                    "is_direct": false
+               },
+               {
+                    "publisher": "Adzuna",
+                    "apply_link": "https://www.adzuna.com/details/4732635202",
+                    "is_direct": false
+               },
+               {
+                    "publisher": "Blackberry Jobs",
+                    "apply_link": "https://blackberryjobs.co.uk/jobs/data-integration-engineer-rockville-maryland/1356108658-2/",
+                    "is_direct": false
+               }
+          ],
+          "job_description": "Description\n\nAre you ready to join Leidos all-star team? Through training, teamwork, and exposure to challenging technical work, let Leidos show how to accelerate your career path.\n\nLeidos has an exciting opening for you as our next TS/SCI cleared Data Engineer supporting the National Media Exploitation Center (NMEC) under our 10-year DOMEX Technology Platform (DTP) contract. Have impact as part of a mission focused, solutions oriented, and adaptive team that values innovation, collaboration, and professional development. Your job will be to design, implement, maintain, and monitor data pipelines, both in support of R&D prototypes and production pipelines. You succeed through effective cross functional collaboration in areas such as, but not limited to, development, product, and QA in a dynamic and fast paced environment. While most work is conducted on-site at our client location in Bethesda, MD, we offer a flexible schedule and, some unclassified development tasks may be performed remotely. Percentage of remote work will vary based on client requirements/deliverables.\n\nAs a senior member of the team, you bring deep expertise in data engineering and will work closely with other infrastructure and network engineers, data scientists, and system engineers on the following key tasks:\n\u2022 Perform Database builds, installs, configuration, administration, and troubleshooting of database systems (e.g., MariaDB/MySQL, Postgres, Elasticsearch, Qdrant, Milvus, etc.)\n\u2022 Ensure data integrity by performing employing data engineering best practices\n\u2022 Maintain database and data pipeline documentation, data dictionaries, and system diagrams\n\nYou demonstrate clear devotion to the data engineering best practices and meet the following qualifications (required):\n\u2022 Bachelor\u2019s Degree and 12+ years of prior relevant experience or Masters with 10+ years of prior relevant experience. Additional years of experience will be considered in lieu of degree.\n\u2022 Experience with SQL, NoSQL, and vector databases such as MSSQL, MySQL, PostgreSQL, Redis, FAISS, Milvus, Qdrant, etc.\n\u2022 Experience designing and maintaining ETL and ELT pipelines with technologies such as Spark, Airflow, Dagster, Prefect, Argocd, Metaflow, Kubeflow, etc.\n\u2022 Experience with DevOps / MLOps, using CI/CD methodology with data pipelines, and cloud-native deployment paradigms.\n\u2022 Must possess TS/SCI clearance with the ability to obtain and maintain TS/SCI with Polygraph.\n\u2022 Experience with database design, implementation, maintenance, monitoring, performance tuning, and optimization.\n\u2022 Expertise in data profiling techniques and understanding the content from both a data quality and business perspective.\n\u2022 Experience with data quality and accuracy evaluation techniques\n\u2022 Experience with Agile practices.\n\u2022 Development experience with Python.\n\u2022 Experience on data model development, modification and migration, and maintenance.\n\u2022 Strong verbal and written communication skills.\n\u2022 Enthusiastic with the ability to work well on a team and a self-starter who can work independently.\n\nYou will wow us even more if you have some of these skills:\n\u2022 An active TS/SCI with Polygraph clearance.\n\u2022 Experience supporting data teams and data scientists.\n\u2022 Experience on a production/ enterprise system.\n\u2022 Experience in air-gapped environments.\n\u2022 Application development and deployment in an AWS environment.\n\u2022 AWS certifications.\n\n#NMECDTP\nOriginal Posting Date:2024-06-11\n\nWhile subject to change based on business needs, Leidos reasonably anticipates that this job requisition will remain open for at least 3 days with an anticipated close date of no earlier than 3 days after the original posting date as listed above.\n\nPay Range:Pay Range $122,200.00 - $220,900.00\n\nThe Leidos pay range for this job level is a general guideline only and not a guarantee of compensation or salary. Additional factors considered in extending an offer include (but are not limited to) responsibilities of the job, education, experience, knowledge, skills, and abilities, as well as internal equity, alignment with market data, applicable bargaining agreement (if any), or other law.\n\nAbout the Company:\nLeidos",
+          "job_is_remote": false,
+          "job_posted_at_timestamp": 1718150400,
+          "job_posted_at_datetime_utc": "2024-06-12T00:00:00.000Z",
+          "job_city": "Rockville",
+          "job_state": "MD",
+          "job_country": "US",
+          "job_latitude": 39.083996,
+          "job_longitude": -77.152756,
+          "job_benefits": null,
+          "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=data+engineering&start=0&ibp=htl;jobs&htidocid=DrblST1dtO4oyEYjAAAAAA%3D%3D#fpstate=tldetail&htivrt=jobs&htiq=data+engineering&htidocid=DrblST1dtO4oyEYjAAAAAA%3D%3D",
+          "job_offer_expiration_datetime_utc": null,
+          "job_offer_expiration_timestamp": null,
+          "job_required_experience": {
+               "no_experience_required": false,
+               "required_experience_in_months": 144,
+               "experience_mentioned": true,
+               "experience_preferred": false
+          },
+          "job_required_skills": null,
+          "job_required_education": {
+               "postgraduate_degree": false,
+               "professional_certification": false,
+               "high_school": false,
+               "associates_degree": false,
+               "bachelors_degree": false,
+               "degree_mentioned": true,
+               "degree_preferred": false,
+               "professional_certification_mentioned": true
+          },
+          "job_experience_in_place_of_education": false,
+          "job_min_salary": null,
+          "job_max_salary": null,
+          "job_salary_currency": null,
+          "job_salary_period": null,
+          "job_highlights": {
+               "Qualifications": [
+                    "You demonstrate clear devotion to the data engineering best practices and meet the following qualifications (required):",
+                    "Bachelor\u2019s Degree and 12+ years of prior relevant experience or Masters with 10+ years of prior relevant experience",
+                    "Additional years of experience will be considered in lieu of degree",
+                    "Experience with SQL, NoSQL, and vector databases such as MSSQL, MySQL, PostgreSQL, Redis, FAISS, Milvus, Qdrant, etc",
+                    "Experience designing and maintaining ETL and ELT pipelines with technologies such as Spark, Airflow, Dagster, Prefect, Argocd, Metaflow, Kubeflow, etc",
+                    "Experience with DevOps / MLOps, using CI/CD methodology with data pipelines, and cloud-native deployment paradigms",
+                    "Must possess TS/SCI clearance with the ability to obtain and maintain TS/SCI with Polygraph",
+                    "Experience with database design, implementation, maintenance, monitoring, performance tuning, and optimization",
+                    "Expertise in data profiling techniques and understanding the content from both a data quality and business perspective",
+                    "Experience with data quality and accuracy evaluation techniques",
+                    "Experience with Agile practices",
+                    "Development experience with Python",
+                    "Experience on data model development, modification and migration, and maintenance",
+                    "Strong verbal and written communication skills",
+                    "Enthusiastic with the ability to work well on a team and a self-starter who can work independently",
+                    "Experience supporting data teams and data scientists",
+                    "Experience on a production/ enterprise system",
+                    "Experience in air-gapped environments",
+                    "Application development and deployment in an AWS environment",
+                    "AWS certifications"
+               ],
+               "Responsibilities": [
+                    "Your job will be to design, implement, maintain, and monitor data pipelines, both in support of R&D prototypes and production pipelines",
+                    "You succeed through effective cross functional collaboration in areas such as, but not limited to, development, product, and QA in a dynamic and fast paced environment",
+                    "Percentage of remote work will vary based on client requirements/deliverables",
+                    "As a senior member of the team, you bring deep expertise in data engineering and will work closely with other infrastructure and network engineers, data scientists, and system engineers on the following key tasks:",
+                    "Perform Database builds, installs, configuration, administration, and troubleshooting of database systems (e.g., MariaDB/MySQL, Postgres, Elasticsearch, Qdrant, Milvus, etc.)",
+                    "Ensure data integrity by performing employing data engineering best practices",
+                    "Maintain database and data pipeline documentation, data dictionaries, and system diagrams"
+               ],
+               "Benefits": [
+                    "ay Range $122,200.00 - $220,900.00"
+               ]
+          },
+          "job_job_title": "Data engineer",
+          "job_posting_language": "en",
+          "job_onet_soc": "15113200",
+          "job_onet_job_zone": "4",
+          "job_occupational_categories": null,
+          "job_naics_code": null,
+          "job_naics_name": null
+     },
+     {
+          "job_id": "AE66ik-UeTW98u5LAAAAAA==",
+          "employer_name": "Chenega Corporation",
+          "employer_logo": "https://www.chenega.com/wp-content/uploads/2019/05/Chenega-Corporation-Social-Media-Logo.jpg",
+          "employer_website": "http://www.chenega.com",
+          "employer_company_type": "Consulting",
+          "job_publisher": "Chenega Careers - Chenega Corporation",
+          "job_employment_type": "FULLTIME",
+          "job_title": "Data Engineer, Sr",
+          "job_apply_link": "https://careers.chenega.com/jobs/31507?lang=en-us",
+          "job_apply_is_direct": true,
+          "job_apply_quality_score": 0.7339,
+          "apply_options": [
+               {
+                    "publisher": "Chenega Careers - Chenega Corporation",
+                    "apply_link": "https://careers.chenega.com/jobs/31507?lang=en-us",
+                    "is_direct": true
+               },
+               {
+                    "publisher": "Indeed",
+                    "apply_link": "https://www.indeed.com/viewjob?jk=2a0828739cc92635",
+                    "is_direct": false
+               },
+               {
+                    "publisher": "ZipRecruiter",
+                    "apply_link": "https://www.ziprecruiter.com/c/Chenega-Corporation/Job/Data-Engineer,-Sr/-in-Reston,VA?jid=1da1cc3def3e7103",
+                    "is_direct": false
+               },
+               {
+                    "publisher": "LinkedIn",
+                    "apply_link": "https://www.linkedin.com/jobs/view/data-engineer-sr-at-chenega-corporation-3941385464",
+                    "is_direct": false
+               },
+               {
+                    "publisher": "Clearance Jobs",
+                    "apply_link": "https://www.clearancejobs.com/jobs/7766449/data-engineer-sr",
+                    "is_direct": false
+               },
+               {
+                    "publisher": "Monster",
+                    "apply_link": "https://www.monster.com/job-openings/data-engineer-sr-reston-va--6b02cd14-1d4a-4ed8-80f1-5b3510a6e9f7",
+                    "is_direct": false
+               },
+               {
+                    "publisher": "Glassdoor",
+                    "apply_link": "https://www.glassdoor.com/job-listing/data-engineer-sr-chenega-corporation-JV_IC1130404_KO0,16_KE17,36.htm?jl=1009314721428",
+                    "is_direct": false
+               },
+               {
+                    "publisher": "Ladders",
+                    "apply_link": "https://www.theladders.com/job/data-engineer-sr-chenegacorporation-reston-va_72565790",
+                    "is_direct": false
+               }
+          ],
+          "job_description": "Summary\n\nData Engineer, Sr.\n\nReston, VA\n\nAre you ready to enhance your skills and build your career in a rapidly evolving business climate? Are you looking for a career where professional development is embedded in your employer\u2019s core culture? If so, Chenega Military, Intelligence & Operations Support (MIOS) could be the place for you! Join our team of professionals who support large-scale government operations by leveraging cutting-edge technology and take your career to the next level!\n\nAt Cyberstar, we aim to analyze and boost human and business performance through the implementation of business process redesign and information technology (IT) modernization to include data analytics and cloud computing.\n\nWe offer an alternate solution to improving the quality and effectiveness of business operations. In an ever-changing economy, Cyberstar helps companies better read and understand their market data through the synchronization of process innovation, human dynamics, analysis, and the integration of data technology capabilities, to ensure functional optimization in their business.\n\nThe Data Engineer, Sr. has in-depth knowledge of relational and cloud-based database management systems and associated applications interface technologies. The Senior Data Engineer, Sr., utilizes technical area expertise to assess the operational and/or technical baselines specifically related to the functional components. Additionally, the Senior Data Engineer, Sr. provides insight and advice to senior managers and executives, concerning the strategic direction and applicability of enterprise-based products.\n\nResponsibilities\n\u2022 Lead and contribute to all aspects of data engineering activities within the software development life cycle, including the development of applicable technical documentation\n\u2022 Lead and participate in analyses to determine the feasibility of achieving data engineering requirements given the limitations and constraints of the target solution\n\u2022 Lead and participate in trade-off analyses as needed\n\u2022 Define and develop techniques to integrate, consolidate, and structure data for analytical and operational use, including the ability to inform on data aggregation and associated security implications\n\u2022 Lead contributions to the development of data migration approaches to transition from legacy relational database management systems (RDBMS)\n\u2022 Identify data migration strategies to transition data from legacy systems and technologies to advanced, enterprise-based solutions and establish test data sets\n\u2022 Lead the effort to design a data synchronization capability between two systems, including a cross-domain solution\n\u2022 Participate in the design and implementation of integrations with external systems, including data warehouses.\n\u2022 Reconcile data models and de-duplicate data stores where multiple exist\n\u2022 Prepare strategic and tactical recommendations with sufficient rationale to advise senior leader decisions relative to the applicability and application of data technologies\n\u2022 Ensure data and database changes are properly implemented and tested, including assessing the impact of requirements and physical changes to the data and database design\n\u2022 Identify and resolve data issues throughout the development life cycle\n\u2022 Ensure compliance with data and database standards\n\u2022 Apply cloud-based data and database technologies, data standards, and best practices while adhering to applicable DoD laws, policies, directives, mandates, and guidance, including data protection of sensitive information (e.g., Personally Identifiable Information (PII))\n\u2022 Identify and evaluate data engineering risks and provide mitigation recommendations related to requirements satisfaction\n\u2022 Ensure alignment of data engineering activities with the overall program schedule, milestones, and required documentation\n\u2022 Maintain current and accurate knowledge of data engineering and data architecture. and data storage best practices\n\u2022 Other duties as assigned\n\nQualifications\n\u2022 Bachelor\u2019s degree OR\n\u2022 High school diploma or GED equivalent and an additional 4+ years of experience\n\u2022 Baseline and Full Computing Environment Certifications for IAT-II IAW DoD 8570.01-M Preferred\n\u2022 15+ years of relevant work experience (data migration efforts and use of associated tools)\n\u2022 4+ years of RDBMS concepts with strong SQL skills\n\u2022 3+ years of experience in the data and analytics space\n\u2022 2+ years in key aspects of software engineering such as parallel data processing, data flows, REST APIs, JSON, XML, and microservice architectures.\n\u2022 Hands-on experience with DevOps solutions such as Jenkins, Puppet, Chef, Ansible, CloudFormation, etc.\n\u2022 Kubernetes and Docker experience a plus\n\u2022 Data Modeling experience a plus\n\u2022 Active Top Secret clearance required; TS/SCI preferred\n\nKnowledge, Skills, and Abilities\n\u2022 Experience with Agile and/or federal software development environments preferred\n\u2022 Excellent interpersonal skills with the ability to listen and understand what is being described by the end user, including the ability to explain problem resolutions when necessary\n\u2022 Strong communication skills, both written and oral\n\u2022 Strong technical and analytical skills with the ability to analyze system functionality with customers and resolve production issues\n\u2022 Ability to work independently without direct supervision or guidance\n\u2022 Ability to occasionally work after hours and/or do on-call support\n\u2022 Ability to work well under pressure with tight deadlines and ambiguity on some projects\n\u2022 Demonstrate ability to analytically address complex problems, process critical data, establish facts, and draw quality conclusions\n\nHow you\u2019ll grow\n\nAt Chenega MIOS, our professional development plan focuses on helping our team members at every level of their career to identify and use their strengths to do their best work every day. From entry-level employees to senior leaders, we believe there\u2019s always room to learn.\n\nWe offer opportunities to help sharpen skills in addition to hands-on experience in the global, fast-changing business world. From on-the-job learning experiences to formal development programs, our professionals have a variety of opportunities to continue to grow throughout their careers.\n\nBenefits\n\nAt Chenega MIOS, we know that great people make a great organization. We value our team members and offer them a broad range of benefits.\n\nLearn more about what working at Chenega MIOS can mean for you.\n\nChenega MIOS\u2019s culture\n\nOur positive and supportive culture encourages our team members to do their best work every day. We celebrate individuals by recognizing their uniqueness and offering them the flexibility to make daily choices that can help them be healthy, centered, confident, and aware. We offer well-being programs and continuously look for new ways to maintain a culture where we excel and lead healthy, happy lives.\n\nCorporate citizenship\n\nChenega MIOS is led by a purpose to make an impact that matters. This purpose defines who we are and extends to relationships with our clients, our team members, and our communities. We believe that business has the power to inspire and transform. We focus on education, giving, skill-based volunteerism, and leadership to help drive positive social impact in our communities.\n\nLearn more about Chenega\u2019s impact on the world.\n\nChenega MIOS News- https://chenegamios.com/news/\n\nTips from your Talent Acquisition team\n\nWe want job seekers exploring opportunities at Chenega MIOS to feel prepared and confident. To help you with your research, we suggest you review the following links:\n\nChenega MIOS web site - www.chenegamios.com\n\nGlassdoor - https://www.glassdoor.com/Overview/Working-at-Chenega-MIOS-EI_IE369514.11,23.htm\n\nLinkedIn - https://www.linkedin.com/company/1472684/\n\nFacebook - https://www.facebook.com/chenegamios/\n\n#Cyberstar, LLC",
+          "job_is_remote": false,
+          "job_posted_at_timestamp": 1717788720,
+          "job_posted_at_datetime_utc": "2024-06-07T19:32:00.000Z",
+          "job_city": "Reston",
+          "job_state": "VA",
+          "job_country": "US",
+          "job_latitude": 38.95863,
+          "job_longitude": -77.357,
+          "job_benefits": null,
+          "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=data+engineering&start=0&ibp=htl;jobs&htidocid=AE66ik-UeTW98u5LAAAAAA%3D%3D#fpstate=tldetail&htivrt=jobs&htiq=data+engineering&htidocid=AE66ik-UeTW98u5LAAAAAA%3D%3D",
+          "job_offer_expiration_datetime_utc": "2025-06-07T19:34:09.000Z",
+          "job_offer_expiration_timestamp": 1749324849,
+          "job_required_experience": {
+               "no_experience_required": false,
+               "required_experience_in_months": 48,
+               "experience_mentioned": true,
+               "experience_preferred": true
+          },
+          "job_required_skills": [
+               "UNAVAILABLE"
+          ],
+          "job_required_education": {
+               "postgraduate_degree": false,
+               "professional_certification": false,
+               "high_school": false,
+               "associates_degree": false,
+               "bachelors_degree": false,
+               "degree_mentioned": true,
+               "degree_preferred": false,
+               "professional_certification_mentioned": true
+          },
+          "job_experience_in_place_of_education": false,
+          "job_min_salary": null,
+          "job_max_salary": null,
+          "job_salary_currency": null,
+          "job_salary_period": null,
+          "job_highlights": {
+               "Qualifications": [
+                    "Bachelor\u2019s degree OR",
+                    "High school diploma or GED equivalent and an additional 4+ years of experience",
+                    "15+ years of relevant work experience (data migration efforts and use of associated tools)",
+                    "4+ years of RDBMS concepts with strong SQL skills",
+                    "3+ years of experience in the data and analytics space",
+                    "2+ years in key aspects of software engineering such as parallel data processing, data flows, REST APIs, JSON, XML, and microservice architectures",
+                    "Hands-on experience with DevOps solutions such as Jenkins, Puppet, Chef, Ansible, CloudFormation, etc",
+                    "Excellent interpersonal skills with the ability to listen and understand what is being described by the end user, including the ability to explain problem resolutions when necessary",
+                    "Strong communication skills, both written and oral",
+                    "Strong technical and analytical skills with the ability to analyze system functionality with customers and resolve production issues",
+                    "Ability to work independently without direct supervision or guidance",
+                    "Ability to occasionally work after hours and/or do on-call support",
+                    "Ability to work well under pressure with tight deadlines and ambiguity on some projects",
+                    "Demonstrate ability to analytically address complex problems, process critical data, establish facts, and draw quality conclusions"
+               ],
+               "Responsibilities": [
+                    "The Senior Data Engineer, Sr., utilizes technical area expertise to assess the operational and/or technical baselines specifically related to the functional components",
+                    "Additionally, the Senior Data Engineer, Sr. provides insight and advice to senior managers and executives, concerning the strategic direction and applicability of enterprise-based products",
+                    "Lead and contribute to all aspects of data engineering activities within the software development life cycle, including the development of applicable technical documentation",
+                    "Lead and participate in analyses to determine the feasibility of achieving data engineering requirements given the limitations and constraints of the target solution",
+                    "Lead and participate in trade-off analyses as needed",
+                    "Define and develop techniques to integrate, consolidate, and structure data for analytical and operational use, including the ability to inform on data aggregation and associated security implications",
+                    "Lead contributions to the development of data migration approaches to transition from legacy relational database management systems (RDBMS)",
+                    "Identify data migration strategies to transition data from legacy systems and technologies to advanced, enterprise-based solutions and establish test data sets",
+                    "Lead the effort to design a data synchronization capability between two systems, including a cross-domain solution",
+                    "Participate in the design and implementation of integrations with external systems, including data warehouses",
+                    "Reconcile data models and de-duplicate data stores where multiple exist",
+                    "Prepare strategic and tactical recommendations with sufficient rationale to advise senior leader decisions relative to the applicability and application of data technologies",
+                    "Ensure data and database changes are properly implemented and tested, including assessing the impact of requirements and physical changes to the data and database design",
+                    "Identify and resolve data issues throughout the development life cycle",
+                    "Ensure compliance with data and database standards",
+                    "Apply cloud-based data and database technologies, data standards, and best practices while adhering to applicable DoD laws, policies, directives, mandates, and guidance, including data protection of sensitive information (e.g., Personally Identifiable Information (PII))",
+                    "Identify and evaluate data engineering risks and provide mitigation recommendations related to requirements satisfaction",
+                    "Ensure alignment of data engineering activities with the overall program schedule, milestones, and required documentation",
+                    "Maintain current and accurate knowledge of data engineering and data architecture",
+                    "and data storage best practices",
+                    "Other duties as assigned"
+               ]
+          },
+          "job_job_title": "Data engineer",
+          "job_posting_language": "en",
+          "job_onet_soc": "15113200",
+          "job_onet_job_zone": "4",
+          "job_occupational_categories": null,
+          "job_naics_code": "541613",
+          "job_naics_name": "Marketing Consulting Services"
+     },
+     {
+          "job_id": "dSmact4uMC1xF1uLAAAAAA==",
+          "employer_name": "Principal Financial Group",
+          "employer_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Principal_Financial_Group_logo.svg/1200px-Principal_Financial_Group_logo.svg.png",
+          "employer_website": "http://www.principal.com",
+          "employer_company_type": "Finance",
+          "job_publisher": "Careers At Principal",
+          "job_employment_type": "FULLTIME",
+          "job_title": "Experienced Data Engineer - Enterprise Data and Analytics, Workforce Data",
+          "job_apply_link": "https://careers.principal.com/jobs/42857?lang=en-us",
+          "job_apply_is_direct": true,
+          "job_apply_quality_score": 0.9274,
+          "apply_options": [
+               {
+                    "publisher": "Careers At Principal",
+                    "apply_link": "https://careers.principal.com/jobs/42857?lang=en-us",
+                    "is_direct": true
+               },
+               {
+                    "publisher": "ZipRecruiter",
+                    "apply_link": "https://www.ziprecruiter.com/c/Principal-Financial-Group/Job/Experienced-Data-Engineer-Enterprise-Data-and-Analytics,-Workforce-Data/-in-Des-Moines,IA?jid=25923306835578e6",
+                    "is_direct": false
+               },
+               {
+                    "publisher": "SimplyHired",
+                    "apply_link": "https://www.simplyhired.com/job/R1XDEy4GAVrCBdoGdIgHpA5XfGxGdiojlKzewT231MWtbBvmWP2q2Q",
+                    "is_direct": false
+               },
+               {
+                    "publisher": "LifeworQ",
+                    "apply_link": "https://lifeworq.com/job/417cd6f3-c6ab-4712-abad-f029f0264bf7",
+                    "is_direct": false
+               },
+               {
+                    "publisher": "Adzuna",
+                    "apply_link": "https://www.adzuna.com/details/4727829217",
+                    "is_direct": true
+               },
+               {
+                    "publisher": "Ladders",
+                    "apply_link": "https://www.theladders.com/job-listing/experienced-data-engineer-enterprise-data-and-analytics-workforce-data-principal-financial-group-des-moines-ia-_v2_-7-3988056034.html",
+                    "is_direct": false
+               },
+               {
+                    "publisher": "Search.retirementjobs.com",
+                    "apply_link": "https://search.retirementjobs.com/job/experienced-data-engineer-enterprise-data-and-analytics-workforce-data-des-moines-iowa-28280331",
+                    "is_direct": false
+               },
+               {
+                    "publisher": "Jora",
+                    "apply_link": "https://us.jora.com/job/Data-Engineer-0e2b443f7c36200ccbca0ac33676fa52",
+                    "is_direct": false
+               }
+          ],
+          "job_description": "What You'll Do\n\nWe\u2019re looking for an Experienced Data Engineer to join our Enterprise Data & Analytics department. In this role, you\u2019ll be a part of the Workforce Data Team and help bring modern engineering capabilities to drive enterprise strategy across the business!\n\u2022 Own technical aspects of data management functions including creating, loading, transforming, cleansing, processing, analyzing, and visualizing data.\n\u2022 Work directly or in support of data science/analytics to design, develop, test and integrate data from various source systems into large-scale, easily consumable data platforms used for providing insights that promotes business growth and efficiency.\n\u2022 Build data solution designs, models and infrastructure by applying architectural patterns and principles, data governance and security, researching new technologies and approaches, understanding requirements, all phases of testing, debugging, documenting, quality assurance practices, implementation and maintenance.\n\u2022 Demonstrate knowledge of industry trends, create optimized data components and systems that use appropriate development environment. Employ technology (i.e., scripting languages, data movement tools) for efficient system integration.\n\u2022 Recommend ways to improve data reliability, efficiency and quality.\n\nOperating at the intersection of financial services and technology, Principal builds financial tools that help our customers live better lives. We take pride in being a purpose-led firm, motivated by our mission to make financial security accessible to all. Our mission, integrity, and customer focus have made us a trusted leader for more than 140 years.\n\nAs Principal continues to modernize its systems, this role will offer you an exciting opportunity to build solutions that will directly impact our long-term strategy and tech stack, all while ensuring that our products are robust, scalable, and secure!\n\nWho You Are\n\u2022 Bachelor's degree plus 2 + years related work experience or a Master's in a related field\n\u2022 You have experience with ETL (extract/transform/load) concepts and tools.\n\u2022 You have worked with relational database concepts and table structures and are proficient in writing queries using SQL.\n\u2022 You are experienced in development of systems for data extraction, ingestion and processing of large volumes of data.\n\nSkills That Will Help You Stand Out\n\u2022 Cloud technologies (i.e, AWS, CD/CI pipelines)\n\u2022 Snowflake\n\u2022 Python scripting\n\u2022 Data warehouse experience\n\u2022 Experience supporting HR Systems such as ICIMS, Oracle human Capital Management, Peoplesoft or other similar environments\n\u2022 Data Security\n\u2022 Test automation\n\nSalary Range Information\n\nSalary ranges below reflect targeted base salaries. Non-sales positions have the opportunity to participate in a bonus program. Sales positions are eligible for sales incentives, and in some instances a bonus plan, whereby total compensation may far exceed base salary depending on individual performance. Actual compensation for all roles will be based upon geographic location, work experience, education, licensure requirements and/or skill level and will be finalized at the time of offer.\nSalary Range (Non-Exempt expressed as hourly; Exempt expressed as yearly)\n\n$75000 - $123000 / year\nTime Off Program\n\nFlexible Time Off (FTO) is provided to salaried (exempt) employees and provides the opportunity to take time away from the office with pay for vacation, personal or short-term illness. Employees don\u2019t accrue a bank of time off under FTO and there is no set number of days provided.\nPension Eligible\n\nYes\nAdditional Information\n\nOur Engineering Culture\n\nThrough our product-driven Agile/Lean DevOps environment, we\u2019ve fostered a culture of innovation and experimentation across our development teams. As a customer-focused organization, we work closely with our end users and product owners to understand and rapidly respond to emerging business needs.\n\nCollaboration is embedded into everything we do \u2013 from the products we develop to the quality service we provide. We\u2019re driven by the belief that diversity of thought, background, and perspective is critical to creating the best products and experiences for our customers.\n\nWork Environments\n\nThis role offers in-office, hybrid (blending at least three office days in a typical workweek).\n\nJob Level\n\nWe\u2019ll consider talent at the next level with the right experience, background and skill level.\n\nWork Authorization/Sponsorship\n\nAt this time, we're not considering candidates that need any type of immigration sponsorship (additional work authorization or permanent work authorization) now or in the future to work in the United States? This includes, but IS NOT LIMITED TO: F1-OPT, F1-CPT, H-1B, TN, L-1, J-1, etc. For additional information around work authorization needs please use the following links.\n\nNonimmigrant Workers and Green Card for Employment-Based Immigrants\n\nInvestment Code of Ethics\n\nFor Principal Asset Management positions, you\u2019ll need to follow an Investment Code of Ethics related to personal and business conduct as well as personal trading activities for you and members of your household. These same requirements may also apply to other positions across the organization.\n\nExperience Principal\n\nWhile our expertise spans the globe, we're bound by one common purpose: to foster a world where financial security is accessible to all. And our success depends on the unique experiences, backgrounds, and talents of our employees \u2013 individually and all of us together. Explore our core values, benefits and why we\u2019re an exceptional place to grow your career.\n\nPrincipal is an Equal Opportunity Employer\n\nAll qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or veteran status.\n\nPosting Window\n\nWe will accept applications for 3 full days following the Original Posting Date, after which the posting may remain open or be removed based upon applications received. If we choose to post the job again, we will accept additional applications for at least 1 full day following the Most Recently Posted Date. Please submit applications in a timely manner as there is no guarantee the posting will be available beyond the applicable deadline.\nOriginal Posting Date\n\n4/17/2024\nMost Recently Posted Date\n\n6/3/2024\n\nLinkedIn Remote Hashtag\n\n#LI-Remote\n\nLinkedIn Hashtag\n\n#LI-EW1",
+          "job_is_remote": false,
+          "job_posted_at_timestamp": 1717467000,
+          "job_posted_at_datetime_utc": "2024-06-04T02:10:00.000Z",
+          "job_city": "Des Moines",
+          "job_state": "IA",
+          "job_country": "US",
+          "job_latitude": 41.58684,
+          "job_longitude": -93.624954,
+          "job_benefits": [
+               "paid_time_off"
+          ],
+          "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=data+engineering&start=0&ibp=htl;jobs&htidocid=dSmact4uMC1xF1uLAAAAAA%3D%3D#fpstate=tldetail&htivrt=jobs&htiq=data+engineering&htidocid=dSmact4uMC1xF1uLAAAAAA%3D%3D",
+          "job_offer_expiration_datetime_utc": "2024-06-17T03:59:00.000Z",
+          "job_offer_expiration_timestamp": 1718596740,
+          "job_required_experience": {
+               "no_experience_required": false,
+               "required_experience_in_months": 24,
+               "experience_mentioned": true,
+               "experience_preferred": false
+          },
+          "job_required_skills": [
+               "UNAVAILABLE"
+          ],
+          "job_required_education": {
+               "postgraduate_degree": false,
+               "professional_certification": false,
+               "high_school": false,
+               "associates_degree": false,
+               "bachelors_degree": false,
+               "degree_mentioned": true,
+               "degree_preferred": false,
+               "professional_certification_mentioned": false
+          },
+          "job_experience_in_place_of_education": false,
+          "job_min_salary": null,
+          "job_max_salary": null,
+          "job_salary_currency": null,
+          "job_salary_period": null,
+          "job_highlights": {
+               "Qualifications": [
+                    "Employ technology (i.e., scripting languages, data movement tools) for efficient system integration",
+                    "Bachelor's degree plus 2 + years related work experience or a Master's in a related field",
+                    "You have experience with ETL (extract/transform/load) concepts and tools",
+                    "You have worked with relational database concepts and table structures and are proficient in writing queries using SQL",
+                    "You are experienced in development of systems for data extraction, ingestion and processing of large volumes of data",
+                    "Cloud technologies (i.e, AWS, CD/CI pipelines)",
+                    "Snowflake",
+                    "Python scripting",
+                    "Data warehouse experience",
+                    "Experience supporting HR Systems such as ICIMS, Oracle human Capital Management, Peoplesoft or other similar environments",
+                    "Data Security",
+                    "Test automation",
+                    "Nonimmigrant Workers and Green Card for Employment-Based Immigrants"
+               ],
+               "Responsibilities": [
+                    "In this role, you\u2019ll be a part of the Workforce Data Team and help bring modern engineering capabilities to drive enterprise strategy across the business!",
+                    "Own technical aspects of data management functions including creating, loading, transforming, cleansing, processing, analyzing, and visualizing data",
+                    "Work directly or in support of data science/analytics to design, develop, test and integrate data from various source systems into large-scale, easily consumable data platforms used for providing insights that promotes business growth and efficiency",
+                    "Build data solution designs, models and infrastructure by applying architectural patterns and principles, data governance and security, researching new technologies and approaches, understanding requirements, all phases of testing, debugging, documenting, quality assurance practices, implementation and maintenance",
+                    "Demonstrate knowledge of industry trends, create optimized data components and systems that use appropriate development environment",
+                    "Recommend ways to improve data reliability, efficiency and quality",
+                    "For Principal Asset Management positions, you\u2019ll need to follow an Investment Code of Ethics related to personal and business conduct as well as personal trading activities for you and members of your household"
+               ],
+               "Benefits": [
+                    "Salary ranges below reflect targeted base salaries",
+                    "Non-sales positions have the opportunity to participate in a bonus program",
+                    "Sales positions are eligible for sales incentives, and in some instances a bonus plan, whereby total compensation may far exceed base salary depending on individual performance",
+                    "Actual compensation for all roles will be based upon geographic location, work experience, education, licensure requirements and/or skill level and will be finalized at the time of offer",
+                    "Salary Range (Non-Exempt expressed as hourly; Exempt expressed as yearly)",
+                    "$75000 - $123000 / year",
+                    "Time Off Program",
+                    "Flexible Time Off (FTO) is provided to salaried (exempt) employees and provides the opportunity to take time away from the office with pay for vacation, personal or short-term illness",
+                    "Employees don\u2019t accrue a bank of time off under FTO and there is no set number of days provided",
+                    "Pension Eligible"
+               ]
+          },
+          "job_job_title": "Data engineer",
+          "job_posting_language": "en",
+          "job_onet_soc": "15113200",
+          "job_onet_job_zone": "4",
+          "job_occupational_categories": null,
+          "job_naics_code": "524113",
+          "job_naics_name": "Direct Life Insurance Carriers"
+     },
+     {
+          "job_id": "mBpulP6DYPVVUZ3IAAAAAA==",
+          "employer_name": "Regeneron Pharmaceuticals, Inc (USA)",
+          "employer_logo": "https://careers.regeneron.com/images/logo.svg",
+          "employer_website": "http://www.regeneron.com",
+          "employer_company_type": "Research",
+          "job_publisher": "ZipRecruiter",
+          "job_employment_type": "FULLTIME",
+          "job_title": "Process Monitoring Data Engineer",
+          "job_apply_link": "https://www.ziprecruiter.com/c/Regeneron-Pharmaceuticals,-Inc-(USA)/Job/Process-Monitoring-Data-Engineer/-in-Rensselaer,IN?jid=18a8325ae112280f",
+          "job_apply_is_direct": false,
+          "job_apply_quality_score": 0.63,
+          "apply_options": [
+               {
+                    "publisher": "ZipRecruiter",
+                    "apply_link": "https://www.ziprecruiter.com/c/Regeneron-Pharmaceuticals,-Inc-(USA)/Job/Process-Monitoring-Data-Engineer/-in-Rensselaer,IN?jid=18a8325ae112280f",
+                    "is_direct": false
+               }
+          ],
+          "job_description": "Regeneron is currently looking for a Process Data Engineer to join our Process Sciences Data Monitoring team. The Process Data Engineer utilizes engineering principles to provide statistical support, data, and analytical support across the site to establish, organize, and maintain effective data co-ordination and data evaluation services pertaining to process monitoring and modelling of biological drugs.\n\nAs a Process Data Engineer, a typical day might include the following:\n\u2022 Support the implementation, expansion, and continuous improvement of Regeneron's process monitoring programs and systems.\n\u2022 Accurately source and verify process data from paper records and database systems (LIMS, Qumas, OPM, Historian) to support data monitoring needs in a timely and efficient manner.\n\u2022 Apply statistical process control and quality engineering to monitor process capability and performance, identify trends, and support investigations.\n\u2022 Use engineering principles to solve process or design problems.\n\u2022 Work with cross-functional departments to ensure process data are being used to maximize process understanding and facilitate continuous improvement opportunities.\n\u2022 Support the development of automated solutions that address specific analytical objectives and facilitate report generation and distribution of analyses.\n\u2022 Issue technical reports summarizing conclusion of data reviews and analysis.\n\u2022 Manage quality system events pertaining to data integrity and data management such as investigations, CAPAs, and change controls.\n\u2022 Apply data visualization tools to translate data into useful information for operations managers and process engineers.\n\u2022 Lead the implementation, expansion, and continuous improvement of Regeneron's application of the Process Performance Monitoring (PPM) program and the data aggregation and reporting system (Discoverant).\n\u2022 Analyze data sources and develop strategies and solutions for data acquisition, aggregation, and reporting.\n\u2022 Apply advanced numerical and statistical techniques including multivariate analysis (PCA and PLS), curve metrics and univariate batch analysis to analyze large datasets of process and raw materials data and generate predictive models to supplement and enhance process understanding.\n\u2022 Lead cross functional teams in technical investigations to resolve process issues and identify process improvements. Present findings at interdepartmental forums.\n\u2022 Apply computational modelling methods for increased process understanding and predictions.\n\u2022 Provide audit and regulatory submission support where applicable.\n\u2022 Provides coaching and mentoring to junior members of the team.\n\nThis role might be for you if you (please add relevant soft skills needed):\n\u2022 Enjoy working in a fast-paced environment and you have the innate ability to balance multiple projects, prioritize them and execute them independently, while excelling at communicating with all impacted parties.\n\u2022 Can take on new and sometimes ambiguous challenges and learn quickly.\n\u2022 Have strong attention to detail.\n\u2022 Can work in a team environment but can also take ownership of projects.\n\u2022 Have a solid understanding of statistics and experience with data aggregation and analysis software.\n\u2022 Can develop and drive scientific and/or business-related improvement ideas.\n\nTo be considered for Process Data Engineer you must be willing and able to work Monday-Friday, 8am-4:30pm. You must have a BS/BA in Engineering; Chemical Engineering or Biochemical Engineering preferred. For various levels you must have the following:\n\u2022 Associate Process Data Engineer: 0-2 years of relevant experience\n\u2022 Process Data Engineer: 2+ years of relevant experience\n\u2022 Sr. Process Data Engineer: 5+ years of relevant experience\n\nExperience in biopharmaceutical cGMP manufacturing is preferred. Level is determined based on qualifications relevant to the role.\n\n.\n\nDoes this sound like you? Apply now to take your first step towards living the Regeneron Way! We have an inclusive and diverse culture that provides comprehensive benefits, which often include (depending on location) health and wellness programs, fitness centers, equity awards, annual bonuses, and paid time off for eligible employees at all levels!\n\nRegeneron is an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion or belief (or lack thereof), sex, nationality, national or ethnic origin, civil status, age, citizenship status, membership of the Traveler community, sexual orientation, disability, genetic information, familial status, marital or registered civil partnership status, pregnancy or parental status, gender identity, gender reassignment, military or veteran status, or any other protected characteristic in accordance with applicable laws and regulations. The Company will also provide reasonable accommodation to the known disabilities or chronic illnesses of an otherwise qualified applicant for employment, unless the accommodation would impose undue hardship on the operation of the Company's business.\n\nFor roles in which the hired candidate will be working in the U.S., the salary ranges provided are shown in accordance with U.S. law and apply to U.S.-based positions. For roles which will be based in Japan and/or Canada, the salary ranges are shown in accordance with the applicable local law and currency. If you are outside the U.S, Japan or Canada, please speak with your recruiter about salaries and benefits in your location.\n\nPlease note that certain background checks will form part of the recruitment process. Background checks will be conducted in accordance with the law of the country where the position is based, including the type of background checks conducted. The purpose of carrying out such checks is for Regeneron to verify certain information regarding a candidate prior to the commencement of employment such as identity, right to work, educational qualifications etc.\n\nSalary Range (annually)\n\n$58,480.40 - $124,300.00",
+          "job_is_remote": false,
+          "job_posted_at_timestamp": 1718214780,
+          "job_posted_at_datetime_utc": "2024-06-12T17:53:00.000Z",
+          "job_city": "Rensselaer",
+          "job_state": "IN",
+          "job_country": "US",
+          "job_latitude": 40.936703,
+          "job_longitude": -87.150856,
+          "job_benefits": [
+               "dental_coverage",
+               "health_insurance",
+               "retirement_savings",
+               "paid_time_off"
+          ],
+          "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=data+engineering&start=0&ibp=htl;jobs&htidocid=mBpulP6DYPVVUZ3IAAAAAA%3D%3D#fpstate=tldetail&htivrt=jobs&htiq=data+engineering&htidocid=mBpulP6DYPVVUZ3IAAAAAA%3D%3D",
+          "job_offer_expiration_datetime_utc": "2024-07-12T00:00:00.000Z",
+          "job_offer_expiration_timestamp": 1720742400,
+          "job_required_experience": {
+               "no_experience_required": false,
+               "required_experience_in_months": 60,
+               "experience_mentioned": true,
+               "experience_preferred": true
+          },
+          "job_required_skills": null,
+          "job_required_education": {
+               "postgraduate_degree": false,
+               "professional_certification": false,
+               "high_school": false,
+               "associates_degree": false,
+               "bachelors_degree": false,
+               "degree_mentioned": true,
+               "degree_preferred": true,
+               "professional_certification_mentioned": false
+          },
+          "job_experience_in_place_of_education": false,
+          "job_min_salary": null,
+          "job_max_salary": null,
+          "job_salary_currency": null,
+          "job_salary_period": null,
+          "job_highlights": {
+               "Qualifications": [
+                    "Enjoy working in a fast-paced environment and you have the innate ability to balance multiple projects, prioritize them and execute them independently, while excelling at communicating with all impacted parties",
+                    "Can take on new and sometimes ambiguous challenges and learn quickly",
+                    "Have strong attention to detail",
+                    "Can work in a team environment but can also take ownership of projects",
+                    "Have a solid understanding of statistics and experience with data aggregation and analysis software",
+                    "Can develop and drive scientific and/or business-related improvement ideas",
+                    "To be considered for Process Data Engineer you must be willing and able to work Monday-Friday, 8am-4:30pm",
+                    "Associate Process Data Engineer: 0-2 years of relevant experience",
+                    "Sr"
+               ],
+               "Responsibilities": [
+                    "The Process Data Engineer utilizes engineering principles to provide statistical support, data, and analytical support across the site to establish, organize, and maintain effective data co-ordination and data evaluation services pertaining to process monitoring and modelling of biological drugs",
+                    "Accurately source and verify process data from paper records and database systems (LIMS, Qumas, OPM, Historian) to support data monitoring needs in a timely and efficient manner",
+                    "Apply statistical process control and quality engineering to monitor process capability and performance, identify trends, and support investigations",
+                    "Use engineering principles to solve process or design problems",
+                    "Work with cross-functional departments to ensure process data are being used to maximize process understanding and facilitate continuous improvement opportunities",
+                    "Support the development of automated solutions that address specific analytical objectives and facilitate report generation and distribution of analyses",
+                    "Issue technical reports summarizing conclusion of data reviews and analysis",
+                    "Manage quality system events pertaining to data integrity and data management such as investigations, CAPAs, and change controls",
+                    "Apply data visualization tools to translate data into useful information for operations managers and process engineers",
+                    "Lead the implementation, expansion, and continuous improvement of Regeneron's application of the Process Performance Monitoring (PPM) program and the data aggregation and reporting system (Discoverant)",
+                    "Analyze data sources and develop strategies and solutions for data acquisition, aggregation, and reporting",
+                    "Apply advanced numerical and statistical techniques including multivariate analysis (PCA and PLS), curve metrics and univariate batch analysis to analyze large datasets of process and raw materials data and generate predictive models to supplement and enhance process understanding",
+                    "Lead cross functional teams in technical investigations to resolve process issues and identify process improvements",
+                    "Apply computational modelling methods for increased process understanding and predictions",
+                    "Provide audit and regulatory submission support where applicable",
+                    "Provides coaching and mentoring to junior members of the team"
+               ],
+               "Benefits": [
+                    "We have an inclusive and diverse culture that provides comprehensive benefits, which often include (depending on location) health and wellness programs, fitness centers, equity awards, annual bonuses, and paid time off for eligible employees at all levels!",
+                    "$58,480.40 - $124,300.00"
+               ]
+          },
+          "job_job_title": "Data engineer",
+          "job_posting_language": "en",
+          "job_onet_soc": "15111100",
+          "job_onet_job_zone": "5",
+          "job_occupational_categories": [
+               "43-5061.00: Production, Planning, and Expediting Clerks"
+          ],
+          "job_naics_code": "541711",
+          "job_naics_name": "Research and Development in Biotechnology"
+     },
+     {
+          "job_id": "8mygbUst29HxIzVIAAAAAA==",
+          "employer_name": "INSIGHT2PROFIT",
+          "employer_logo": "https://www.insight2profit.com/wp-content/uploads/2021/11/insight2profit_color_21771.jpg",
+          "employer_website": "http://insight2profit.com",
+          "employer_company_type": null,
+          "job_publisher": "LinkedIn",
+          "job_employment_type": "FULLTIME",
+          "job_title": "Director of Data Engineering and Analytics",
+          "job_apply_link": "https://www.linkedin.com/jobs/view/director-of-data-engineering-and-analytics-at-insight2profit-3947998883",
+          "job_apply_is_direct": false,
+          "job_apply_quality_score": 0.6297,
+          "apply_options": [
+               {
+                    "publisher": "LinkedIn",
+                    "apply_link": "https://www.linkedin.com/jobs/view/director-of-data-engineering-and-analytics-at-insight2profit-3947998883",
+                    "is_direct": false
+               }
+          ],
+          "job_description": "INSIGHT2PROFIT is looking for a Director of Data Engineering & Analytics that can drive tactical execution in a fast-paced client service environment and be a strategic thought leader for how we invest in this critical capability area.\n\nIn this role you will oversee a growing team of experienced data and analytics professionals that play a critical role in delivering INSIGHT2PROFIT\u2019s services. You will need to provide the team with technical expertise and coaching, ensure alignment with our consulting (Delivery) teams and clients with a focus on quality and speed. You will be responsible for ensuring we meet the Data Engineering demands across the full client engagement lifecycle.\n\nYou will work closely with our Delivery leadership, Software Development and Product Management teams to shape our Data Engineering & Analytics roadmap. supporting and standardizing analytics deliverables, and shaping current and future needs for data, ETL and analytics related technology solutions.\n\nJob Responsibilities:\n\u2022 Align and collaborate with Delivery leaders to ensure appropriate priorities and urgency are maintained for all active engagements. Set appropriate expectations and proactively manage them.\n\u2022 Manage team\u2019s priorities and alignment with clients and engagements. Ensure all requests are addressed in a timely manner. Scale the team as needed.\n\u2022 Responsible for hiring, onboarding, and managing performance of a large and growing team.\n\u2022 Establish, enforce, and maintain Data Engineering standards, best practices, processes, and implementation patterns. Ensure appropriateness and soundness of all solutions.\n\u2022 Collaborate with Enterprise, Data, and other architects to extend and expand data platform and its capabilities.\n\u2022 Support and enhance INSIGHT\u2019s BI offerings and capabilities including PowerBI templates, SDLC, and embedded options.\n\u2022 Oversee data governance and quality, ensuring data accuracy, consistency, and compliance with industry standards.\n\u2022 Establish and enforce data security and privacy protocols to safeguard sensitive information.\n\u2022 Stay current with emerging trends and technologies in the data engineering field, incorporating them into the organization's data strategy.\n\u2022 Mentor and guide a team of data engineers, fostering a culture of excellence, continuous learning and professional growth.\n\nKnowledge, Skills and Attributes:\n\u2022 Bachelor\u2019s degree in computer science, information technology or other related degree is required.\n\u2022 3+ of demonstrated \u201chands-on\u201d Data Engineering experience.\n\u2022 5+ years of demonstrated experience in a people or technology leadership role.\n\u2022 Deep technical knowledge and experience with traditional Data Engineering techniques and technologies, data transformation patterns, and data governance and security concepts.\n\u2022 Strong knowledge and understanding of the modern and emerging data engineering and analytics platforms, techniques, and methodologies.\n\u2022 Experience with and understanding of Data Lakehouse Architecture, big data processing, and related technologies.\n\u2022 Experience with Databricks or similar big data processing platforms is a strong plus.\n\u2022 Experience with and understanding of modern Business Intelligence / Analytics platforms like PowerBI (preferred), Qlik, Tableau, etc.\n\u2022 Experience in professional services or consulting strongly preferred\n\u2022 Strong business acumen and aptitude.\n\u2022 Understanding of standard software development methodologies, tools, and best practices.\n\u2022 Understanding, exposure, and experience with agile methodologies like Scrum is a plus but not required.\n\u2022 Experience with near- or off-shore resourcing models is preferred.\n\u2022 Ability to work in a fast-paced environment and effectively deal with competing priorities.\n\u2022 Excellent problem-solving, organizational, analytical, time management, verbal, and written communication skills.\n\u2022 Excellent communication and interpersonal skills, with demonstrated ability to present information in a group or individual setting.",
+          "job_is_remote": false,
+          "job_posted_at_timestamp": 1718132269,
+          "job_posted_at_datetime_utc": "2024-06-11T18:57:49.000Z",
+          "job_city": "Columbus",
+          "job_state": "OH",
+          "job_country": "US",
+          "job_latitude": 39.961174,
+          "job_longitude": -82.998795,
+          "job_benefits": null,
+          "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=data+engineering&start=0&ibp=htl;jobs&htidocid=8mygbUst29HxIzVIAAAAAA%3D%3D#fpstate=tldetail&htivrt=jobs&htiq=data+engineering&htidocid=8mygbUst29HxIzVIAAAAAA%3D%3D",
+          "job_offer_expiration_datetime_utc": "2024-07-11T18:57:49.000Z",
+          "job_offer_expiration_timestamp": 1720724269,
+          "job_required_experience": {
+               "no_experience_required": false,
+               "required_experience_in_months": 60,
+               "experience_mentioned": true,
+               "experience_preferred": true
+          },
+          "job_required_skills": null,
+          "job_required_education": {
+               "postgraduate_degree": false,
+               "professional_certification": false,
+               "high_school": false,
+               "associates_degree": false,
+               "bachelors_degree": true,
+               "degree_mentioned": true,
+               "degree_preferred": true,
+               "professional_certification_mentioned": false
+          },
+          "job_experience_in_place_of_education": false,
+          "job_min_salary": null,
+          "job_max_salary": null,
+          "job_salary_currency": null,
+          "job_salary_period": null,
+          "job_highlights": {
+               "Qualifications": [
+                    "Bachelor\u2019s degree in computer science, information technology or other related degree is required",
+                    "3+ of demonstrated \u201chands-on\u201d Data Engineering experience",
+                    "5+ years of demonstrated experience in a people or technology leadership role",
+                    "Deep technical knowledge and experience with traditional Data Engineering techniques and technologies, data transformation patterns, and data governance and security concepts",
+                    "Strong knowledge and understanding of the modern and emerging data engineering and analytics platforms, techniques, and methodologies",
+                    "Experience with and understanding of Data Lakehouse Architecture, big data processing, and related technologies",
+                    "Experience with Databricks or similar big data processing platforms is a strong plus",
+                    "Strong business acumen and aptitude",
+                    "Understanding of standard software development methodologies, tools, and best practices",
+                    "Ability to work in a fast-paced environment and effectively deal with competing priorities",
+                    "Excellent problem-solving, organizational, analytical, time management, verbal, and written communication skills",
+                    "Excellent communication and interpersonal skills, with demonstrated ability to present information in a group or individual setting"
+               ],
+               "Responsibilities": [
+                    "In this role you will oversee a growing team of experienced data and analytics professionals that play a critical role in delivering INSIGHT2PROFIT\u2019s services",
+                    "You will need to provide the team with technical expertise and coaching, ensure alignment with our consulting (Delivery) teams and clients with a focus on quality and speed",
+                    "You will be responsible for ensuring we meet the Data Engineering demands across the full client engagement lifecycle",
+                    "You will work closely with our Delivery leadership, Software Development and Product Management teams to shape our Data Engineering & Analytics roadmap. supporting and standardizing analytics deliverables, and shaping current and future needs for data, ETL and analytics related technology solutions",
+                    "Align and collaborate with Delivery leaders to ensure appropriate priorities and urgency are maintained for all active engagements",
+                    "Set appropriate expectations and proactively manage them",
+                    "Manage team\u2019s priorities and alignment with clients and engagements",
+                    "Ensure all requests are addressed in a timely manner",
+                    "Scale the team as needed",
+                    "Responsible for hiring, onboarding, and managing performance of a large and growing team",
+                    "Establish, enforce, and maintain Data Engineering standards, best practices, processes, and implementation patterns",
+                    "Ensure appropriateness and soundness of all solutions",
+                    "Collaborate with Enterprise, Data, and other architects to extend and expand data platform and its capabilities",
+                    "Support and enhance INSIGHT\u2019s BI offerings and capabilities including PowerBI templates, SDLC, and embedded options",
+                    "Oversee data governance and quality, ensuring data accuracy, consistency, and compliance with industry standards",
+                    "Establish and enforce data security and privacy protocols to safeguard sensitive information",
+                    "Stay current with emerging trends and technologies in the data engineering field, incorporating them into the organization's data strategy",
+                    "Mentor and guide a team of data engineers, fostering a culture of excellence, continuous learning and professional growth"
+               ]
+          },
+          "job_job_title": null,
+          "job_posting_language": "en",
+          "job_onet_soc": "11302100",
+          "job_onet_job_zone": "4",
+          "job_occupational_categories": null,
+          "job_naics_code": null,
+          "job_naics_name": null
+     },
+     {
+          "job_id": "NWWa3GAjxyMnPjMSAAAAAA==",
+          "employer_name": "Cars Commerce",
+          "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_1_MfKhwKysOgy3YvtDGaFg_pRtYv0b-GXDdp&s=0",
+          "employer_website": null,
+          "employer_company_type": null,
+          "job_publisher": "Built In",
+          "job_employment_type": "FULLTIME",
+          "job_title": "Sr. Data Engineer I",
+          "job_apply_link": "https://builtin.com/job/sr-data-engineer-i/2802503",
+          "job_apply_is_direct": false,
+          "job_apply_quality_score": 0.6705,
+          "apply_options": [
+               {
+                    "publisher": "Built In",
+                    "apply_link": "https://builtin.com/job/sr-data-engineer-i/2802503",
+                    "is_direct": false
+               },
+               {
+                    "publisher": "Indeed",
+                    "apply_link": "https://www.indeed.com/viewjob?jk=1f9e49ee7298906d",
+                    "is_direct": false
+               },
+               {
+                    "publisher": "EchoJobs",
+                    "apply_link": "https://echojobs.io/job/cars-com-sr-data-engineer-i-lljdc",
+                    "is_direct": false
+               },
+               {
+                    "publisher": "Simplify Jobs",
+                    "apply_link": "https://simplify.jobs/p/6f2b5428-76f2-4852-be9f-fb83409255d3/Sr-Data-Engineer-I",
+                    "is_direct": false
+               },
+               {
+                    "publisher": "LazyApply",
+                    "apply_link": "https://lazyapply.com/jobpreview/job_1f9e49ee7298906d",
+                    "is_direct": false
+               }
+          ],
+          "job_description": "Be essential at Cars Commerce\n\nAt Cars Commerce, we\u2019re fanatical about simplifying everything about car buying and selling. We do right by our customers and consumers to better connect the industry with simplified and tierless technology to enhance, measure and drive local automotive retail. Whether through our No.1 most recognized marketplace, Cars.com, our industry-leading digital experience, Dealer Inspire, our trade and appraisal technology, AccuTrade, or our new Cars Commerce Media Network, Cars Commerce is essential for success in the automotive industry.\n\nNo one ever travels alone here: at its core, Cars Commerce is collaboration. In fact, it\u2019s built into the very fabric of our shared values. We like to say we Rise Together \u2013 putting people at the center of what we do, from consumer to customer to community. Life at Cars Commerce makes it easy when we share the ethos to be Open to All, encouraging open-minded communication because we know diverse thinking yields better outcomes. But critical to our success is Caring to Challenge and Taking Ownership, fueling a competitive spirit in a respectful environment where we think about tomorrow but act today. At our foundation, we have integrity, Doing the Right Thing, even when it\u2019s hard. It\u2019s our shared commitment to these values that makes Cars Commerce a place where growth becomes not only possible, but downright unavoidable.\n\nBut don\u2019t take our word for it. As a U.S. News & World Report Best Company to Work For in 2024, we're obsessive about the employee experience. We are among the top 20% being declared \u201cBest\u201d of our industry based on six critical factors that are important to employee wellbeing, like quality of pay, benefits, work life balance and more.\n\nAbout You:\n\nData is the driver for our future at Cars Commerce. We\u2019re searching for a collaborative, analytical, and innovative engineer to build scalable and highly performant platforms, systems and tools to enable innovations with data. If you are passionate about building large scale systems and data driven products, we want to hear from you.\n\nResponsibilities Include:\n\u2022 Build data pipelines and deriving insights out of the data using advanced analytic techniques, streaming and machine learning at scale\n\u2022 Work within a dynamic, forward thinking team environment where you will design, develop, and maintain mission-critical, highly visible Big Data and Machine Learning applications\n\u2022 Build, deploy and support data pipelines and ML models into production.\n\u2022 Work in close partnership with other Engineering teams, including Data Science, & cross-functional teams, such as Product Management & Product Design\n\u2022 Opportunity to mentor others on the team and share your knowledge across the Cars.com organization\n\nRequired Skills\n\u2022 Ability to develop Spark jobs to cleanse/enrich/process large amounts of data.\n\u2022 Ability to develop jobs to read from various source systems such as kafka, databases, API's, files etc.\n\u2022 Experience with tuning Spark jobs for efficient performance including execution time of the job, execution memory, etc.\n\u2022 Sound understanding of various file formats and compression techniques.\n\u2022 Experience with source code management systems such as Github and developing CI/CD pipelines with tools such as Jenkins for data.\n\u2022 Ability to understand deeply the entire architecture for a major part of the business and be able to articulate the scaling and reliability limits of that area; design, develop and debug at an enterprise level and design and estimate at a cross-project level.\n\u2022 Ability to mentor developers and lead projects of medium to high complexity.\n\u2022 Excellent communication and collaboration skills.\n\nRequired Experience\n\u2022 Data Engineering | 6+ years of designing & developing complex applications at enterprise scale; specifically Python, Pyspark and/or Scala.\n\u2022 Big Data Ecosystem | 4+ years of hands-on, professional experience with tools and platforms like Spark, EMR, Kafka.\n\u2022 AWS Cloud | 2+ years of professional experience in developing Big Data applications in the cloud, specifically AWS.\n\nPreferred:\n\u2022 Experience with developing REST APIs.\n\u2022 Experience in deploying ML models into production and integrating them into production applications for use.\n\u2022 Experience with machine learning / deep learning using R, Python, Jupyter, Zeppelin, TensorFlow, etc.\n\u2022 Experience with developing real time data analytics using Spark Streaming, Kafka, etc.\n\n#LI-KO1 #LI-Remote\n\nIn the spirit of pay transparency, we are excited to share the base salary range for this position which is not inclusive of bonuses, benefits or other forms of compensation that the position may be eligible for. If you are hired at Cars Commerce, your final base salary compensation will be determined based on factors such as skills and/or experience. If the salary range is close to what you're seeking, then we encourage you to apply and learn more about the total compensation package for this position.\n\nSalary Range\n\n$131,400\u2014$164,300 USD\n\nOur Comprehensive Benefits Package includes:\n\u2022 Medical, Dental & Vision Healthcare Plans\n\u2022 401(k) with Company Match + Immediate Vesting\n\u2022 New Hire Stipend for Home Office Set-Up\n\u2022 Employee Stock Purchase Program\n\u2022 Generous PTO\n\u2022 Refuel - a service based recognition program where employees receive additional paid time away to learn grow and reset\n\u2022 Paid Holidays, Floating Holiday, Volunteer Day, Recharge Day\n\u2022 Learn more about our Benefits, Perks, & Culture on our LinkedIn Life Pages!\n\nWe are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. California Applicants: Click here to review our California Privacy Policy for Applicants. For current employees, please click here to review our California Privacy Policy for Employees.",
+          "job_is_remote": true,
+          "job_posted_at_timestamp": 1718194500,
+          "job_posted_at_datetime_utc": "2024-06-12T12:15:00.000Z",
+          "job_city": null,
+          "job_state": null,
+          "job_country": "US",
+          "job_latitude": 37.09024,
+          "job_longitude": -95.71289,
+          "job_benefits": [
+               "health_insurance",
+               "dental_coverage",
+               "paid_time_off",
+               "retirement_savings"
+          ],
+          "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=data+engineering&start=0&ibp=htl;jobs&htidocid=NWWa3GAjxyMnPjMSAAAAAA%3D%3D#fpstate=tldetail&htivrt=jobs&htiq=data+engineering&htidocid=NWWa3GAjxyMnPjMSAAAAAA%3D%3D",
+          "job_offer_expiration_datetime_utc": "2024-07-12T00:00:00.000Z",
+          "job_offer_expiration_timestamp": 1720742400,
+          "job_required_experience": {
+               "no_experience_required": false,
+               "required_experience_in_months": 24,
+               "experience_mentioned": true,
+               "experience_preferred": false
+          },
+          "job_required_skills": null,
+          "job_required_education": {
+               "postgraduate_degree": false,
+               "professional_certification": false,
+               "high_school": false,
+               "associates_degree": false,
+               "bachelors_degree": true,
+               "degree_mentioned": false,
+               "degree_preferred": false,
+               "professional_certification_mentioned": false
+          },
+          "job_experience_in_place_of_education": false,
+          "job_min_salary": 131400,
+          "job_max_salary": 164300,
+          "job_salary_currency": "USD",
+          "job_salary_period": "YEAR",
+          "job_highlights": {
+               "Qualifications": [
+                    "Ability to develop Spark jobs to cleanse/enrich/process large amounts of data",
+                    "Ability to develop jobs to read from various source systems such as kafka, databases, API's, files etc",
+                    "Experience with tuning Spark jobs for efficient performance including execution time of the job, execution memory, etc",
+                    "Sound understanding of various file formats and compression techniques",
+                    "Experience with source code management systems such as Github and developing CI/CD pipelines with tools such as Jenkins for data",
+                    "Ability to understand deeply the entire architecture for a major part of the business and be able to articulate the scaling and reliability limits of that area; design, develop and debug at an enterprise level and design and estimate at a cross-project level",
+                    "Ability to mentor developers and lead projects of medium to high complexity",
+                    "Excellent communication and collaboration skills",
+                    "Required Experience",
+                    "Data Engineering | 6+ years of designing & developing complex applications at enterprise scale; specifically Python, Pyspark and/or Scala",
+                    "Big Data Ecosystem | 4+ years of hands-on, professional experience with tools and platforms like Spark, EMR, Kafka",
+                    "AWS Cloud | 2+ years of professional experience in developing Big Data applications in the cloud, specifically AWS"
+               ],
+               "Responsibilities": [
+                    "Build data pipelines and deriving insights out of the data using advanced analytic techniques, streaming and machine learning at scale",
+                    "Work within a dynamic, forward thinking team environment where you will design, develop, and maintain mission-critical, highly visible Big Data and Machine Learning applications",
+                    "Build, deploy and support data pipelines and ML models into production",
+                    "Work in close partnership with other Engineering teams, including Data Science, & cross-functional teams, such as Product Management & Product Design",
+                    "Opportunity to mentor others on the team and share your knowledge across the Cars.com organization"
+               ],
+               "Benefits": [
+                    "In the spirit of pay transparency, we are excited to share the base salary range for this position which is not inclusive of bonuses, benefits or other forms of compensation that the position may be eligible for",
+                    "If you are hired at Cars Commerce, your final base salary compensation will be determined based on factors such as skills and/or experience",
+                    "If the salary range is close to what you're seeking, then we encourage you to apply and learn more about the total compensation package for this position",
+                    "$131,400\u2014$164,300 USD",
+                    "Our Comprehensive Benefits Package includes:",
+                    "Medical, Dental & Vision Healthcare Plans",
+                    "401(k) with Company Match + Immediate Vesting",
+                    "New Hire Stipend for Home Office Set-Up",
+                    "Employee Stock Purchase Program",
+                    "Generous PTO",
+                    "Refuel - a service based recognition program where employees receive additional paid time away to learn grow and reset",
+                    "Paid Holidays, Floating Holiday, Volunteer Day, Recharge Day",
+                    "Learn more about our Benefits, Perks, & Culture on our LinkedIn Life Pages!"
+               ]
+          },
+          "job_job_title": "Data engineer",
+          "job_posting_language": "en",
+          "job_onet_soc": "15113200",
+          "job_onet_job_zone": "4",
+          "job_occupational_categories": null,
+          "job_naics_code": null,
+          "job_naics_name": null
+     },
+     {
+          "job_id": "6x1EKYeb_hpT8K4vAAAAAA==",
+          "employer_name": "Atlassian",
+          "employer_logo": "https://images.ctfassets.net/8j5aqoy0ts8s/3V650c91OiNdKFEHshpKMs/759fe6983e0f99bb2f8e11f0cffa024c/atlassian-blue-logo.png",
+          "employer_website": "http://www.atlassian.com",
+          "employer_company_type": "Information",
+          "job_publisher": "Join Our Talent Community | Atlassian Careers Apply - Atlassian",
+          "job_employment_type": "FULLTIME",
+          "job_title": "Data Engineer",
+          "job_apply_link": "https://join.atlassian.com/jobs/12930?lang=en-us",
+          "job_apply_is_direct": true,
+          "job_apply_quality_score": 0.6972,
+          "apply_options": [
+               {
+                    "publisher": "Join Our Talent Community | Atlassian Careers Apply - Atlassian",
+                    "apply_link": "https://join.atlassian.com/jobs/12930?lang=en-us",
+                    "is_direct": true
+               },
+               {
+                    "publisher": "LinkedIn",
+                    "apply_link": "https://www.linkedin.com/jobs/view/data-engineer-at-atlassian-3938060379",
+                    "is_direct": false
+               },
+               {
+                    "publisher": "Resume-Library.com",
+                    "apply_link": "https://www.resume-library.com/job/view/161912852/data-engineer",
+                    "is_direct": true
+               },
+               {
+                    "publisher": "Ladders",
+                    "apply_link": "https://www.theladders.com/job-listing/data-engineer-atlassian-san-francisco-ca-_v2_-7-3561528585.html",
+                    "is_direct": false
+               },
+               {
+                    "publisher": "Jooble",
+                    "apply_link": "https://jooble.org/jdp/5814229457751914388",
+                    "is_direct": false
+               },
+               {
+                    "publisher": "SimplyHired",
+                    "apply_link": "https://www.simplyhired.com/job/NsySpvMCqrrPQiu3h994PdDml7naHzXaP97zUtUiVP4yLV5WX2i0FQ",
+                    "is_direct": false
+               },
+               {
+                    "publisher": "Adzuna",
+                    "apply_link": "https://www.adzuna.com/details/4702222975",
+                    "is_direct": false
+               },
+               {
+                    "publisher": "BeBee",
+                    "apply_link": "https://us.bebee.com/job/e65fa8a7746b46f57ea51f3d1428a934",
+                    "is_direct": false
+               }
+          ],
+          "job_description": "Overview\n\nWorking at Atlassian\n\nAtlassians can choose where they work \u2013 whether in an office, from home, or a combination of the two. That way, Atlassians have more control over supporting their family, personal goals, and other priorities. We can hire people in any country where we have a legal entity. Interviews and onboarding are conducted virtually, a part of being a distributed-first company.Atlassian is looking for a Data Engineer to join our Data Engineering Team. You will build top-notch data solutions and applications that inspire important decisions across the organization. You will be reporting to the Senior Data Engineering Manager.\n\nYou'll have flexibility in where you work \u2013 whether in an office, from home (remote), or a combination of the two.\n\nResponsibilities\n\nA typical day may involve collaborating with partners, you will design data models, acquisition processes, and applications to address needs. With experience in large-scale data processing systems (batch and streaming), you will lead business growth and enhance product experiences. And will collaborate with Technology Teams, Global Analytical Teams, and Data Scientists across programs.\n\nYou'll take ownership of problems from end-to-end: extracting/cleaning data, and understanding generating systems. Improving the quality of data by adding sources, coding rules, and producing metrics is crucial as requirements evolve. Agility and smart risk-taking are important qualities in this industry where digital innovation meets partner/customer needs over time.\n\nQualifications\n\nOn your first day, we'll expect you to have:\n\u2022 BS in Computer Science or equivalent experience with 3+ years as a Data Engineer or a similar role\n\u2022 Programming skills in Python & Java (good to have)\n\u2022 Design data models for storage and retrieval to meet product and requirements\n\u2022 Build scalable data pipelines using Spark, Airflow, AWS data services (Redshift, Athena, EMR), Apache projects (Spark, Flink, Hive, and Kafka)\n\u2022 Familiar with modern software development practices (Agile, TDD, CICD) applied to data engineering\n\u2022 Enhance data quality through internal tools/frameworks detecting DQ issues. Working knowledge of relational databases and SQL query authoring\n\nWe'd be super excited if you have:\n\u2022 Followed a Kappa architecture with any of your previous deployments and domain knowledge of Financial and People System\n\nCompensation\n\nAt Atlassian, we strive to design equitable, explainable, and competitive compensation programs. To support this goal, the baseline of our range is higher than that of the typical market range, but in turn we expect to hire most candidates near this baseline. Base pay within the range is ultimately determined by a candidate's skills, expertise, or experience. In the United States, we have three geographic pay zones. For this role, our current base pay ranges for new hires in each zone are:\n\nZone A: $140,100 - $186,800\n\nZone B: $126,100 - $168,100\n\nZone C: $116,300 - $155,000\n\nThis role may also be eligible for benefits, bonuses, commissions, and equity.\n\nPlease visit go.atlassian.com/payzones for more information on which locations are included in each of our geographic pay zones. However, please confirm the zone for your specific location with your recruiter.\n\n#LI-Remote\n\nOur perks & benefits\n\nAtlassian offers a variety of perks and benefits to support you, your family and to help you engage with your local community. Our offerings include health coverage, paid volunteer days, wellness resources, and so much more. Visit go.atlassian.com/perksandbenefits to learn more.\n\nAbout Atlassian\n\nAt Atlassian, we're motivated by a common goal: to unleash the potential of every team. Our software products help teams all over the planet and our solutions are designed for all types of work. Team collaboration through our tools makes what may be impossible alone, possible together.\n\nWe believe that the unique contributions of all Atlassians create our success. To ensure that our products and culture continue to incorporate everyone's perspectives and experience, we never discriminate based on race, religion, national origin, gender identity or expression, sexual orientation, age, or marital, veteran, or disability status. All your information will be kept confidential according to EEO guidelines.\n\nTo provide you the best experience, we can support with accommodations or adjustments at any stage of the recruitment process. Simply inform our Recruitment team during your conversation with them.\n\nPursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.\n\nTo learn more about our culture and hiring process, visit go.atlassian.com/crh.",
+          "job_is_remote": false,
+          "job_posted_at_timestamp": 1716235200,
+          "job_posted_at_datetime_utc": "2024-05-20T20:00:00.000Z",
+          "job_city": "San Francisco",
+          "job_state": "CA",
+          "job_country": "US",
+          "job_latitude": 37.77493,
+          "job_longitude": -122.41942,
+          "job_benefits": [
+               "health_insurance"
+          ],
+          "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=data+engineering&start=0&ibp=htl;jobs&htidocid=6x1EKYeb_hpT8K4vAAAAAA%3D%3D#fpstate=tldetail&htivrt=jobs&htiq=data+engineering&htidocid=6x1EKYeb_hpT8K4vAAAAAA%3D%3D",
+          "job_offer_expiration_datetime_utc": "2024-08-01T05:00:00.000Z",
+          "job_offer_expiration_timestamp": 1722488400,
+          "job_required_experience": {
+               "no_experience_required": false,
+               "required_experience_in_months": 36,
+               "experience_mentioned": true,
+               "experience_preferred": false
+          },
+          "job_required_skills": [
+               "UNAVAILABLE"
+          ],
+          "job_required_education": {
+               "postgraduate_degree": false,
+               "professional_certification": false,
+               "high_school": false,
+               "associates_degree": false,
+               "bachelors_degree": false,
+               "degree_mentioned": true,
+               "degree_preferred": true,
+               "professional_certification_mentioned": false
+          },
+          "job_experience_in_place_of_education": false,
+          "job_min_salary": null,
+          "job_max_salary": null,
+          "job_salary_currency": null,
+          "job_salary_period": null,
+          "job_highlights": {
+               "Qualifications": [
+                    "Improving the quality of data by adding sources, coding rules, and producing metrics is crucial as requirements evolve",
+                    "Agility and smart risk-taking are important qualities in this industry where digital innovation meets partner/customer needs over time",
+                    "BS in Computer Science or equivalent experience with 3+ years as a Data Engineer or a similar role",
+                    "Programming skills in Python & Java (good to have)",
+                    "Design data models for storage and retrieval to meet product and requirements",
+                    "Build scalable data pipelines using Spark, Airflow, AWS data services (Redshift, Athena, EMR), Apache projects (Spark, Flink, Hive, and Kafka)",
+                    "Familiar with modern software development practices (Agile, TDD, CICD) applied to data engineering",
+                    "Enhance data quality through internal tools/frameworks detecting DQ issues",
+                    "Working knowledge of relational databases and SQL query authoring"
+               ],
+               "Responsibilities": [
+                    "You will build top-notch data solutions and applications that inspire important decisions across the organization",
+                    "You will be reporting to the Senior Data Engineering Manager",
+                    "You'll have flexibility in where you work \u2013 whether in an office, from home (remote), or a combination of the two",
+                    "A typical day may involve collaborating with partners, you will design data models, acquisition processes, and applications to address needs",
+                    "With experience in large-scale data processing systems (batch and streaming), you will lead business growth and enhance product experiences",
+                    "And will collaborate with Technology Teams, Global Analytical Teams, and Data Scientists across programs",
+                    "You'll take ownership of problems from end-to-end: extracting/cleaning data, and understanding generating systems"
+               ],
+               "Benefits": [
+                    "Followed a Kappa architecture with any of your previous deployments and domain knowledge of Financial and People System",
+                    "At Atlassian, we strive to design equitable, explainable, and competitive compensation programs",
+                    "Zone A: $140,100 - $186,800",
+                    "Zone B: $126,100 - $168,100",
+                    "Zone C: $116,300 - $155,000",
+                    "This role may also be eligible for benefits, bonuses, commissions, and equity",
+                    "Our perks & benefits",
+                    "Atlassian offers a variety of perks and benefits to support you, your family and to help you engage with your local community",
+                    "Our offerings include health coverage, paid volunteer days, wellness resources, and so much more"
+               ]
+          },
+          "job_job_title": "Data engineer",
+          "job_posting_language": "en",
+          "job_onet_soc": "15113200",
+          "job_onet_job_zone": "4",
+          "job_occupational_categories": null,
+          "job_naics_code": "511210",
+          "job_naics_name": "Software Publishers"
+     }
+]
